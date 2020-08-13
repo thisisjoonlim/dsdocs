@@ -8,24 +8,30 @@ permalink: /docs/readings
 
 # Readings
 
-TBA
+Summary of Books, Papers, Blogs for Data Scientists
 {: .fs-6 .fw-300 }
 
 ---
 
-Just the Docs uses [lunr.js](http://lunrjs.com) to add a client-side search interface powered by a JSON index that Jekyll generates.
-All search results are shown in an auto-complete style interface (there is no search results page).
-By default, all generated HTML pages are indexed using the following data points:
+## Structure
 
-- Page title
-- Page content
-- Page URL
+You can find a countless number of data science blogs and subscribe to their updates. But soon, you’ll be overwhelmed by the amount of emails and posts that you find in your inbox. For the signal-to-noise ratio, you can review the curated high quality readings in this section, organized by 3 groups and 8 tags.
 
-## Enable search in configuratio
+|                 | Books    | Papers   | Blogs    |
+|:----------------|:---------|:---------|:---------|
+| Stats           | 0        | 0        | 0        |
+| Experiments     | 0        | 0        | 0        |
+| ML Infra        | 0        | 0        | 0        |
+| ML Algorithm    | 0        | 0        | 0        |
+| Data Platform   | 0        | 0        | 0        |
+| Products        | 0        | 0        | 0        |
+| Leadership      | 0        | 0        | 0        |
+| Management      | 0        | 0        | 0        |
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+## 10 Bullets
+
+You’ll see each reading summarized in 10 bullet points.
+
+
+Now, you can find the curated reading materials in the groups below:
+
