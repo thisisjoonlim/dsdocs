@@ -95,3 +95,15 @@ email, or any other method with the owners of this repository before making a ch
 Just the Docs is committed to fostering a welcoming community.
 
 [View our Code of Conduct](https://github.com/pmarsceill/just-the-docs/tree/master/CODE_OF_CONDUCT.md) on our GitHub repository.
+
+
+### R Code Test
+```r
+library("geepack")
+data(dietox)
+dietox$Cu <- as.factor(dietox$Cu)
+dietox$Evit <- as.factor(dietox$Evit)
+mf <- formula(Weight ~ Time + Evit + Cu)
+head(dietox)
+```
+
