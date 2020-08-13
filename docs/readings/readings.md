@@ -36,8 +36,9 @@ I have summarized each reading in 10 bullet points with two goals in mind:
 
 1. To grasp the main messages with a small time investment, which will help you make a decision whether to invest more time to get to learn the details.
 2. To move up the forgetting curve by periodically revisiting the material and quickly going over the key points through your mobile device. 
-{: .pl-2 }
+{: .pl-6 }
 
+An Illustration Of The Forgetting Curve:
 ![fogetting_curve](https://www.researchgate.net/profile/Bo_Ae_Chun/publication/324816198/figure/fig1/AS:620205050982405@1524879815703/Ebbinghaus-forgetting-curve-and-review-cycle.png){: height="70%" width="70%" }
 
 
