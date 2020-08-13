@@ -106,4 +106,3 @@ dietox$Evit <- as.factor(dietox$Evit)
 mf <- formula(Weight ~ Time + Evit + Cu)
 head(dietox)
 ```
-
