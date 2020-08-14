@@ -23,7 +23,10 @@ Management
 Author: Julie Zhuo
 
 **#1 - The goal of management is to get better outcomes from a group of people working together.**
+{: .btn .summary-collapsible}
+
 - The crux of management - the brief that a team of people can achieve more than a single person going it alone.
+{: .summary-content}
 
 **#2 - Evaluation Criteria of a Manager - Teams' performance, Team's Satisfaction and Strength.**
 - Current Performance - did we achieve the aspirations as a team? 
@@ -180,7 +183,7 @@ Author: Ben Horowitz
 
 ---
 
-## 2014 - Booked
+## 2014 - Hooked
 {: .d-inline-block }
 Product
 {: .label .label-green }
@@ -283,7 +286,7 @@ Author: Liz Wiseman and Greg McKeown
 ## 2002 - The Five Dysfunctions of a Team
 {: .d-inline-block }
 Management
-{: .label .label-green }
+{: .label .label-yellow }
 
 Author: Patrick Lencioni
 
@@ -295,7 +298,7 @@ Author: Patrick Lencioni
 ## 2001 - Crucial Conversations
 {: .d-inline-block }
 Leadership
-{: .label .label-green }
+{: .label .label-yellow }
 
 Author: Kerry Patterson, Joseph Grenny, Ron McMillan, Al Switzler
 
