@@ -13,7 +13,11 @@ Summary of Books, Papers, Blogs for DS
 
 ---
 
-As Big Data, Data Science, and Artificial Intelligence industries are moving fast, it’s important to stay on top of the trend. They are many approaches to 
+As Big Data, Data Science, and Artificial Intelligence gain more popularity, become essential parts of online and offline products and services, and benefit more businesses and people’s daily lives, it’s ironically harder to stay on top of the trend. While you can access various forms of information such as presentations, research papers, blogs, courses, and videos, you will find that it’s impossible or impractical to review all. 
+
+In this section, I will provide summaries of the books, papers and articles from the manually curated list of high quality sources. You can consider that this list is to maximize the precision (in the concept of precision vs. recall tradeoff) to give you the best return on your time investment. I recommend you go beyond the list, explore more materials, and even suggest to me as you find meaningful readings.
+
+---
 
 ## Structure
 
@@ -21,7 +25,7 @@ You can find a countless number of data science blogs and subscribe to their upd
 
 |                 | Books    | Papers   | Blogs    |
 |:----------------|:---------|:---------|:---------|
-| Stats {: .label .label-yellow }          | 0        | 0        | 0        |
+| Stats           | 0        | 0        | 0        |
 | Experiments     | 0        | 0        | 0        |
 | ML Infra        | 0        | 0        | 0        |
 | ML Algorithm    | 0        | 0        | 0        |
@@ -40,9 +44,5 @@ I have summarized each reading in 10 bullet points with two goals in mind: (1) t
 
 **An Illustration Of The Forgetting Curve:**
 ![fogetting_curve](https://www.researchgate.net/profile/Bo_Ae_Chun/publication/324816198/figure/fig1/AS:620205050982405@1524879815703/Ebbinghaus-forgetting-curve-and-review-cycle.png){: height="100%" width="100%" }
-
----
-
-Now, you can find the curated reading materials in the groups below:
 
 
