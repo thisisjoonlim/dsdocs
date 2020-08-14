@@ -16,10 +16,11 @@ parent: Readings
 ---
 
 ## 2019 - Making Of A Manager
-Author: Julie Zhuo
-
+{: .d-inline-block }
 Management
 {: .label .label-yellow }
+
+Author: Julie Zhuo
 
 **#1 - The goal of management is to get better outcomes from a group of people working together.**
 - The crux of management - the brief that a team of people can achieve more than a single person going it alone.
@@ -40,110 +41,114 @@ Management
 ---
 
 ## 2017 - Principles
-Author: Ray Dalio
-
+{: .d-inline-block }
 Leadership
 {: .label .label-yellow }
+
+Author: Ray Dalio
 
 **#1 - ...**
 
 ---
 
 ## 2017 - Radical Candor
-Author: Kim Scott
-
+{: .d-inline-block }
 Leadership
 {: .label .label-yellow }
+
+Author: Kim Scott
 
 **#1 - ...**
 
 ---
 
 ## 2016 - Platform Revolution
-Author: Geoffrey G Parker, Sangeet Paul Choudary, Marshall Van Alstyne
-
+{: .d-inline-block }
 Product
 {: .label .label-green }
+
+Author: Geoffrey G Parker, Sangeet Paul Choudary, Marshall Van Alstyne
 
 **#1 - ...**
 
 ---
 
 ## 2015 - 15 Commitments of Concious Leadership
-Author: Jim Dethmer, Diana Chapman, Kailey Warner Klemp
-
+{: .d-inline-block }
 Leadership
 {: .label .label-yellow }
 
+Author: Jim Dethmer, Diana Chapman, Kailey Warner Klemp
+
 “above the line” vs. “below the line”
-	- open, curious, committed to learning vs. closed, defensive, committed to being right
-	- 4 ways of leading: to me, by me, through me, as me.
+- open, curious, committed to learning vs. closed, defensive, committed to being right
+- 4 ways of leading: to me, by me, through me, as me.
 
 Commitment 1 [foundation]: taking radical responsibility
-	- below the line: blame, shame, and guilt come from toxic fear, which drives victim-villain-hero triangle 
-	- above the line: taking full responsibility and asking, “what can we learn and how can we grow from this?”
+- below the line: blame, shame, and guilt come from toxic fear, which drives victim-villain-hero triangle 
+- above the line: taking full responsibility and asking, “what can we learn and how can we grow from this?”
 
 Commitment 2 [foundation]: Learning Through Curiosity
-	- Self-awareness and learning agility create sustained success in leaders.
-	- Being “right” does not cause the drama but wanting, proving, fighting to be right does.
-	- Regularly interrupt when you are below the line by pausing to breathe, accept, and shift (using the shift moves).
-	- The issue is how long we stay in the drift.
+- Self-awareness and learning agility create sustained success in leaders.
+- Being “right” does not cause the drama but wanting, proving, fighting to be right does.
+- Regularly interrupt when you are below the line by pausing to breathe, accept, and shift (using the shift moves).
+- The issue is how long we stay in the drift.
 
 Commitment 3 [Emotional Intelligence]: Feeling all feelings
-	- Feelings are natural and expressing them is healthy
-	- 5 primary emotions are anger, fear, sadness, joy and sexual feelings. Knowing how to express them all of the way through to completion helps us develop emotional intelligence.
-	- Learn to locate, name and release feelings.
+- Feelings are natural and expressing them is healthy
+- 5 primary emotions are anger, fear, sadness, joy and sexual feelings. Knowing how to express them all of the way through to completion helps us develop emotional intelligence.
+- Learn to locate, name and release feelings.
 
 Commitment 4 [conscious being]: Speaking Candidly
-	- Seeing the reality clearly is essential to being successful and everyone needs to be truthful (not lie, withhold).
-	- Candor is the revealing of all thoughts, feelings, and sensations in an honest, open and aware way. 
-	- Withholding is refraining from revealing everything to all relevant parties. Rather than withholding, conscious leaders practice revealing.
-	- Conscious listening is to listen for the content, the emotion and the desire.
-	- It’s best to start with candor in relationship only when you have a shared commitment.
+- Seeing the reality clearly is essential to being successful and everyone needs to be truthful (not lie, withhold).
+- Candor is the revealing of all thoughts, feelings, and sensations in an honest, open and aware way. 
+- Withholding is refraining from revealing everything to all relevant parties. Rather than withholding, conscious leaders practice revealing.
+- Conscious listening is to listen for the content, the emotion and the desire.
+- It’s best to start with candor in relationship only when you have a shared commitment.
 
 Commitment 5 [conscious being]: Eliminating Gossip 
-	- Gossip is a statement about another made by someone with negative intent OR a statement the speaker would be unwilling to share in exactly the same way if that person were in the room.
-	- People usually gossip out of fear - to gain validation, control, avoid conflict, get attention, feel included.
-	- When leaders and teams speak candidly with each other, they benefit from direct feedback about issues that otherwise could derail creative energy and productive collaboration.
+- Gossip is a statement about another made by someone with negative intent OR a statement the speaker would be unwilling to share in exactly the same way if that person were in the room.
+- People usually gossip out of fear - to gain validation, control, avoid conflict, get attention, feel included.
+- When leaders and teams speak candidly with each other, they benefit from direct feedback about issues that otherwise could derail creative energy and productive collaboration.
 
 Commitment 6 [conscious being]: Practicing Integrity
-	- Integrity is the practice of keeping agreements, taking responsibility, revealing authentic feeling and expressing unarguable truths. It facilitates wholeness and congruence.
-	- Conscious leaders are impeccable with their agreements. They clear agreements, keep them, renegotiate when needed, and clean them up when broken.
+- Integrity is the practice of keeping agreements, taking responsibility, revealing authentic feeling and expressing unarguable truths. It facilitates wholeness and congruence.
+- Conscious leaders are impeccable with their agreements. They clear agreements, keep them, renegotiate when needed, and clean them up when broken.
 
 Commitment 7 [conscious being]: Generating Appreciation
-	- White/green exercise - you will find what you seek. Need to develop a taste of appreciation.
-	- 4 elements of masterful appreciation: sincerity, unarguable truth, specificity, succinct language.
-	- Optimal ratio for strong relationship - 5 appreciation and 1 constructive feedback
+- White/green exercise - you will find what you seek. Need to develop a taste of appreciation.
+- 4 elements of masterful appreciation: sincerity, unarguable truth, specificity, succinct language.
+- Optimal ratio for strong relationship - 5 appreciation and 1 constructive feedback
 
 Commitment 8 [conscious being]: Excelling in your Zone of Genius
-	- 4 zones: incompetence, competence, excellence, genius
-		- Genius -> it’s the work that you love doing so it does not feel like work.
-		- Incompetence -> dump it, delegate it, or do it differently.
-	- Conscious leaders spend time with team members to assess, understand, and appreciate their own unique genius qualities and talents.
+- 4 zones: incompetence, competence, excellence, genius
+    - Genius -> it’s the work that you love doing so it does not feel like work.
+    - Incompetence -> dump it, delegate it, or do it differently.
+- Conscious leaders spend time with team members to assess, understand, and appreciate their own unique genius qualities and talents.
 
 Commitment 9: Life of Play and Rest; “All work and no play makes Jack a dull boy"
-	- Play is a purposeless activity that does not cause stress and worry, it is nothing serious.
-	- Organizations that take rest and play are productive and creative.
-	- Play reduce burnouts and stress; honoring rest, renewal and rhythm. 
-	- Research is showing over and over again the necessity of sleep for high functionality.
+- Play is a purposeless activity that does not cause stress and worry, it is nothing serious.
+- Organizations that take rest and play are productive and creative.
+- Play reduce burnouts and stress; honoring rest, renewal and rhythm. 
+- Research is showing over and over again the necessity of sleep for high functionality.
 
 Commitment 10: Exploring the opposite
-	- Exploring the opposite means being open to the opposite of your story
-	- It’s not the issue itself but your interpretation that causes the pain
-	- Turnaround exercise allows leaders to practice shifting their beliefs from knowing to curiosity.
+- Exploring the opposite means being open to the opposite of your story
+- It’s not the issue itself but your interpretation that causes the pain
+- Turnaround exercise allows leaders to practice shifting their beliefs from knowing to curiosity.
 
 Commitment 11: Source of Approval, Control and Security (@Joon: a philosophical chapter)
-	- Humans have core wants of approval, control and security. And security is about survival. 
-	- The challenge is not in having approval, control and security but in believing that they are missing. This causes people to seek these core desires outside themselves. Not the wants but the wanting of something different leads to an unsatisfying life. 
-	- Try Sedona method to source security, approval and control from within.  
+- Humans have core wants of approval, control and security. And security is about survival. 
+- The challenge is not in having approval, control and security but in believing that they are missing. This causes people to seek these core desires outside themselves. Not the wants but the wanting of something different leads to an unsatisfying life. 
+- Try Sedona method to source security, approval and control from within.  
 
 Commitment 12: Having enough of everything: time, money, love, energy, space, resource
-	- The scarcity belief that there is not enough causes leaders to focus on making sure they get what is “theirs”
-	- The belief and experience of sufficiency creates a profound shift in their relationship with others, work, and life.
+- The scarcity belief that there is not enough causes leaders to focus on making sure they get what is “theirs”
+- The belief and experience of sufficiency creates a profound shift in their relationship with others, work, and life.
 
 Commitment 13: Seeing the world as an ally
-	- Conscious leaders commit to seeing all people and circumstances as allies in their growth and development.
-	- Other people don’t even have to consciously commit to being your ally. If you are committed to experiencing them that way, they are always instrumental to your growth.
+- Conscious leaders commit to seeing all people and circumstances as allies in their growth and development.
+- Other people don’t even have to consciously commit to being your ally. If you are committed to experiencing them that way, they are always instrumental to your growth.
 
 Commitment 14: Creating win for all solutions
 - (Scarcity -> Zero-sum game -> Competition - win/lose -> Drama) vs. win-for-all solutions
@@ -155,18 +160,19 @@ Commitment 15: Being the resolution
 ---
 
 ## 2014 - The Hard Things About Hard Things
-Author: Ben Horowitz
-
+{: .d-inline-block }
 Leadership
 {: .label .label-yellow }
+
+Author: Ben Horowitz
 
 **#1 - People first, then your products, and then your profits.**
 
 **#2 - Don’t convey only optimism; be honest about threats to the company.**
-	- “Don’t put it all on your shoulders” – As CEO, you can’t share everything, but remember that you don’t have to bear every burden alone.
+- “Don’t put it all on your shoulders” – As CEO, you can’t share everything, but remember that you don’t have to bear every burden alone.
 
 **#3 - Managers should deliver news of firings to their people with compassion; never outsource this task to HR.**
-	- When you fire an executive, the first step is figuring out why you hired the wrong person in the first place, or you’ll be firing another executive soon.
+- When you fire an executive, the first step is figuring out why you hired the wrong person in the first place, or you’ll be firing another executive soon.
 
 **#4 - Minimize politics about pay, promotion and territory with well-designed processes.**
 
@@ -175,10 +181,10 @@ Leadership
 ---
 
 ## 2014 - Booked
-Author: Nir Eyal and Ryan Hoover
-
+{: .d-inline-block }
 Product
 {: .label .label-green }
+Author: Nir Eyal and Ryan Hoover
 
 - The ultimate goal of a habit-forming product is to solve the user’s pain by creating an association so that the user identifies the company’s product or service as the source of relief.
 - A product should be a painkiller to users (must have), not a vitamin (good to have). 
@@ -221,10 +227,11 @@ Product
 ---
 
 ## 2014 - Growth Hacker Marketing
-Author: Ryan Holiday
-
+{: .d-inline-block }
 Product
 {: .label .label-green }
+
+Author: Ryan Holiday
 
 **#1 - Get your Product-Market-Fit (PMF) Right.**
 - Product-Market-Fit. This means shaping your product so it fits with market needs, and the only way to do that is to test what works. To increase the odd of success, start small with a MVP and check out the market response before making a significant investment. This ensures you have a market focus, rather than a company or product focus. Then write the FAQ. Then build a prototype to iteratively test, learn, optimize.
@@ -241,40 +248,44 @@ Product
 ---
 
 ## 2010 - Multipliers
-Author: Liz Wiseman and Greg McKeown
-
+{: .d-inline-block }
 Leadership
 {: .label .label-yellow }
+
+Author: Liz Wiseman and Greg McKeown
 
 **#1 - ...**
 
 ---
 
 ## 2008 - The Ten Commandments for Business Failure
-Author: Donald R. Keough
-
+{: .d-inline-block }
 Management
 {: .label .label-yellow }
+
+Author: Donald R. Keough
 
 **#1 - ...**
 
 ---
 
 ## 2008 - Made to Stick
-Author: Liz Wiseman and Greg McKeown
-
+{: .d-inline-block }
 Product
 {: .label .label-green }
+
+Author: Liz Wiseman and Greg McKeown
 
 **#1 - ...**
 
 ---
 
 ## 2002 - The Five Dysfunctions of a Team
-Author: Patrick Lencioni
+{: .d-inline-block }
+Management
+{: .label .label-green }
 
-Leadership
-{: .label .label-yellow }
+Author: Patrick Lencioni
 
 **#1 - ...**
 
@@ -282,10 +293,11 @@ Leadership
 
 
 ## 2001 - Crucial Conversations
-Author: Kerry Patterson, Joseph Grenny, Ron McMillan, Al Switzler
-
+{: .d-inline-block }
 Leadership
-{: .label .label-yellow }
+{: .label .label-green }
+
+Author: Kerry Patterson, Joseph Grenny, Ron McMillan, Al Switzler
 
 **#1: Start with heart**
 - What do I want for myself, my team, others, relationship, etc?
