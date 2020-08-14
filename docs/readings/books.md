@@ -22,11 +22,14 @@ Management
 
 Author: Julie Zhuo
 
+<details>
+<summary>
 **#1 - The goal of management is to get better outcomes from a group of people working together.**
-{: .s-collapsible }
+</summary>}
 
 - The crux of management - the brief that a team of people can achieve more than a single person going it alone.
 {: .s-content }
+</details>
 
 **#2 - Evaluation Criteria of a Manager - Teams' performance, Team's Satisfaction and Strength.**
 - Current Performance - did we achieve the aspirations as a team? 
