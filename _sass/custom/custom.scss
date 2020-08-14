@@ -1,0 +1,10 @@
+// Print-only styles.
+@media print {
+    .side-bar, .page-header { display: none; }
+    .main-content { max-width: auto; margin: 1em;}
+}
+
+// fix the nav width
+.nav-list {
+    width: 180px;
+}
