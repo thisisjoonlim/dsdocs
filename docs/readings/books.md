@@ -23,7 +23,7 @@ Management
 Author: Julie Zhuo
 
 **#1 - The goal of management is to get better outcomes from a group of people working together.**
-{: .summary-collapsible}
+{: .btn .summary-collapsible}
 
 - The crux of management - the brief that a team of people can achieve more than a single person going it alone.
 {: .summary-content}

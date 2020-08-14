@@ -12,18 +12,6 @@
     transition: max-height 0.2s ease-out;
   }
 
-.summary-collapsible:after {
-    content: '\02795'; /* Unicode character for "plus" sign (+) */
-    font-size: 13px;
-    color: plum;
-    float: right;
-    margin-left: 5px;
-}
-
-.active:after {
-    content: "\2796"; /* Unicode character for "minus" sign (-) */
-}
-
 // fix the nav width
 // .nav-list {
 //     width: 180px;
