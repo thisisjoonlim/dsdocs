@@ -300,52 +300,43 @@ Leadership
 
 Author: Kerry Patterson, Joseph Grenny, Ron McMillan, Al Switzler
 
-**#1: Start with heart**
-- What do I want for myself, my team, others, relationship, etc?
-	- also clarify what you really don't want.
-- And how should I behave if I really wanted these results?
-- Refuse the Fool's choice
-
-**#2: Learn to Look - notice when safety is at risk**
-- the problem is not the content of the message but the condition of the conversation.
-- Silence (masking, avoiding, withholding) and Violence (controlling, labeling, attacking)
-- Look for signs - physical, emotions, behavioral
-- Look to watch for safety problems.
-
-**#3: Make it Safe -- mutual purpose & mutual respect**
-- Step out, make it safe, and then step back in
-- Apologize, Contrast, Create the mutual purpose -- clarify my motives and that I care their goals
-	- Contrast - address their concern and clarify your real purpose
-- Create/Keep the mutual respect.
-
-**#4: State My Path - STATE**
-- Share your facts -- first talk about hard evidence, data, observation
-- Tell your story -- share your own interpretation, view of the facts
-- Ask for others paths -- encourage others to share both their facts and their stories
-- Talk Tentatively -- state your story as a story, don't make it conclusive
-- Encourage testing -- invite others to confirm or express differing or opposing views.
-
-**#5: Explore others' paths - AMPP & ABC**
-- Understand other's path
-    - Ask to get things rolling - "I'd really like to hear your opinion on this"
-    - Mirror to confirm feelings - "you say you're okay, but the tone of your voice, you seem upset"
-    - Paraphrase to acknowledge the story
-    - Prime when you're getting nowhere
-- Share a differing view
-    - Agree - first start with the words "i agree" for the part that I agree with
-    - Build - "Absolutely. In addition, I noticed that ..."
-    - Compare - compare two views. "I think I see things differently. Let me describe how."
-
-**#6: Move to Action**
-- Decision making - command, consult, vote, consensus
-	- who cares? who knows? who must agree? how many people is it worth involving?
-- Commitment - who will do what by when
-
-**#7: Quotes**
+**#1 - Learn to manage crucial conversations**
 - "A crucial conversation is a discussion between two or more people where the stakes are high, opinions vary, and emotions run strong."
-- "The pool of shared meaning is the birthplace of synergy"
-- "I'd like to talk about something that's getting in the way of my working with you. It's a tough issue to bring up, but I think it'll help us be better teammates if I do. Is that okay?" [Mutual Purpose]
-- "state `FACTS`... I don't know that you're aware you're doing these things, so I thought I'd bring them up because they send a message that makes me uncomfortable. How do you see it?" [STATE my path]
 
----
+**#2 - Start with the heart**
+- What do I want/ not want for myself, my team, others, etc.?
+- And how should I behave if I wanted these results?
+- Refuse the fool's choice (the "either/or" options).
+
+**#3 - Learn to look: notice when safety is at risk**
+- The problem is not the content of the message but the condition of the conversation.
+- Avoid the silence patterns (masking, avoiding, withholding) and the violence patterns (controlling, labeling, attacking).
+- Look for physical, emotional, behavioral signs, and watch for safety problems.
+
+**#4 - Make it safe: mutual purpose & mutual respect**
+- You can step out, make it safe, and then step back in.
+- Apologize first, then address their concern, clarify your motives, and confirm the mutual purpose (the shared goal).
+- Create and keep mutual respect.
+
+**#5 - State my path: STATE framework**
+- Share your facts – first talk about hard evidence, data, observation.
+- Tell your story – share your interpretation, view of the facts.
+- Ask for other's paths – encourage others to share both their facts and their stories.
+- Talk tentatively – state your story as a story, don't make it conclusive.
+- Encourage testing – invite others to confirm or express differing or opposing views.
+
+**#6 - Explore others' paths: AMPP framework**
+- Ask to get things rolling – e.g., "I'd like to hear your opinion on this"
+- Mirror to confirm feelings – e.g., "you say you're okay, but the tone of your voice, you seem upset."
+- Paraphrase to acknowledge the story
+- Prime when you're getting nowhere – e.g., "I believe you may be upset because … "
+
+**#7 - Share a differing view: ABC framework**
+- Agree – while you need to work through disagreements, start with an area of agreement.
+- Build – build when others leave out key pieces. e.g., "Absolutely. Besides, I noticed that …"
+- Compare – compare two views. "I think I see things differently. Let me describe how."
+
+**#8 - Move to action**
+- Come to consensus, drive commitment (who does what by when), and follow up.
+- Use decision-making tools effectively: Command, Consult, Vote, and Consensus.
 
