@@ -81,82 +81,45 @@ Leadership
 
 Jim Dethmer, Diana Chapman, Kailey Warner Klempaw	
 
-“above the line” vs. “below the line”
-- open, curious, committed to learning vs. closed, defensive, committed to being right
-- 4 ways of leading: to me, by me, through me, as me.
+**#1 - Understand where you are: “above the line” vs. “below the line.”**
+- Above the line: open, curious, committed to learning.
+- Below the line: closed, defensive, committed to being right.
+- Interrupt when you are below the line by pausing to breathe, accept, and shift.
 
-Commitment 1 [foundation]: taking radical responsibility
-- below the line: blame, shame, and guilt come from toxic fear, which drives victim-villain-hero triangle 
-- above the line: taking full responsibility and asking, “what can we learn and how can we grow from this?”
+**#2 - Practicing integrity, and Taking radical responsibility.**
+- Above the line: Conscious leaders are impeccable with their agreements. They clear agreements, keep them, renegotiate when needed, and clean them up when broken. Take full responsibility and ask, “what can we learn, and how can we grow from this?” 
+- Below the line: blame, shame, and guilt come from toxic fear, which drives the victim-villain-hero triangle.
 
-Commitment 2 [foundation]: Learning Through Curiosity
+**#3 - Learning through curiosity.**
 - Self-awareness and learning agility create sustained success in leaders.
 - Being “right” does not cause the drama but wanting, proving, fighting to be right does.
-- Regularly interrupt when you are below the line by pausing to breathe, accept, and shift (using the shift moves).
-- The issue is how long we stay in the drift.
 
-Commitment 3 [Emotional Intelligence]: Feeling all feelings
-- Feelings are natural and expressing them is healthy
-- 5 primary emotions are anger, fear, sadness, joy and sexual feelings. Knowing how to express them all of the way through to completion helps us develop emotional intelligence.
-- Learn to locate, name and release feelings.
+**#4 - Releasing all feelings, eliminating gossip, and speaking candidly.**
+- Expressing natural feelings is healthy. Learn to locate, name, and release emotions.
+- Gossip is a statement about another that the speaker would be unwilling to share in the same way if that person were in the room. People usually gossip out of fear to gain validation, control, avoid conflict, get attention, or feel included.
+- Candor is the revealing of all thoughts, feelings, and sensations in an honest, open, and aware way (vs. withholding). It’s best to start with candor in a relationship only when you have a shared commitment.
+- Practice conscious listening that is to listen for the content, emotion, and desire.
 
-Commitment 4 [conscious being]: Speaking Candidly
-- Seeing the reality clearly is essential to being successful and everyone needs to be truthful (not lie, withhold).
-- Candor is the revealing of all thoughts, feelings, and sensations in an honest, open and aware way. 
-- Withholding is refraining from revealing everything to all relevant parties. Rather than withholding, conscious leaders practice revealing.
-- Conscious listening is to listen for the content, the emotion and the desire.
-- It’s best to start with candor in relationship only when you have a shared commitment.
+**#5 - Generating Appreciation, and exploring the opposite.**
+- Develop a taste of appreciation and to be open to the opposite of your story.
+- Four elements of masterful appreciation: sincerity, truth, specificity, succinct language.
+- The optimal ratio for a strong relationship: 5 appreciation and 1 constructive feedback.
 
-Commitment 5 [conscious being]: Eliminating Gossip 
-- Gossip is a statement about another made by someone with negative intent OR a statement the speaker would be unwilling to share in exactly the same way if that person were in the room.
-- People usually gossip out of fear - to gain validation, control, avoid conflict, get attention, feel included.
-- When leaders and teams speak candidly with each other, they benefit from direct feedback about issues that otherwise could derail creative energy and productive collaboration.
-
-Commitment 6 [conscious being]: Practicing Integrity
-- Integrity is the practice of keeping agreements, taking responsibility, revealing authentic feeling and expressing unarguable truths. It facilitates wholeness and congruence.
-- Conscious leaders are impeccable with their agreements. They clear agreements, keep them, renegotiate when needed, and clean them up when broken.
-
-Commitment 7 [conscious being]: Generating Appreciation
-- White/green exercise - you will find what you seek. Need to develop a taste of appreciation.
-- 4 elements of masterful appreciation: sincerity, unarguable truth, specificity, succinct language.
-- Optimal ratio for strong relationship - 5 appreciation and 1 constructive feedback
-
-Commitment 8 [conscious being]: Excelling in your Zone of Genius
-- 4 zones: incompetence, competence, excellence, genius
-    - Genius -> it’s the work that you love doing so it does not feel like work.
-    - Incompetence -> dump it, delegate it, or do it differently.
-- Conscious leaders spend time with team members to assess, understand, and appreciate their own unique genius qualities and talents.
-
-Commitment 9: Life of Play and Rest; “All work and no play makes Jack a dull boy"
-- Play is a purposeless activity that does not cause stress and worry, it is nothing serious.
-- Organizations that take rest and play are productive and creative.
-- Play reduce burnouts and stress; honoring rest, renewal and rhythm. 
-- Research is showing over and over again the necessity of sleep for high functionality.
-
-Commitment 10: Exploring the opposite
-- Exploring the opposite means being open to the opposite of your story
-- It’s not the issue itself but your interpretation that causes the pain
-- Turnaround exercise allows leaders to practice shifting their beliefs from knowing to curiosity.
-
-Commitment 11: Source of Approval, Control and Security (@Joon: a philosophical chapter)
-- Humans have core wants of approval, control and security. And security is about survival. 
-- The challenge is not in having approval, control and security but in believing that they are missing. This causes people to seek these core desires outside themselves. Not the wants but the wanting of something different leads to an unsatisfying life. 
-- Try Sedona method to source security, approval and control from within.  
-
-Commitment 12: Having enough of everything: time, money, love, energy, space, resource
-- The scarcity belief that there is not enough causes leaders to focus on making sure they get what is “theirs”
-- The belief and experience of sufficiency creates a profound shift in their relationship with others, work, and life.
-
-Commitment 13: Seeing the world as an ally
+**#6 - Seeing the world as an ally, and creating a win for all solutions.**
 - Conscious leaders commit to seeing all people and circumstances as allies in their growth and development.
-- Other people don’t even have to consciously commit to being your ally. If you are committed to experiencing them that way, they are always instrumental to your growth.
+- Other people don’t even have to commit to being your ally, consciously. If you are committed to experiencing them that way, they are always instrumental to your growth.
+- Don’t fall into: “scarcity -> zero-sum game -> competition - win/lose -> drama” trap.
 
-Commitment 14: Creating win for all solutions
-- (Scarcity -> Zero-sum game -> Competition - win/lose -> Drama) vs. win-for-all solutions
+**#7 - Excelling in your Zone of Genius.**
+- Spend time with team members to assess, understand, and appreciate their unique genius qualities and talents. Help them use their strong genius talents more.
+- Four zones: incompetence, competence, excellence, genius
+- Genius: it’s the work that you love doing, so it does not feel like work.
+- Incompetence: dump it, delegate it, or do it differently.
 
-Commitment 15: Being the resolution
-- Recognizes what’s missing in the world and view that as an invitation to become what’s needed.
-- Team members who don’t feel heard by unconscious leaders stop caring about making changes and give up on creating solutions that could benefit the organization.
+**#8 - Finding the right balance and having enough of everything.**
+- Organizations that take rest and play are productive and creative.
+- Research is showing over and over again, the necessity of sleep for high functionality.
+- The experience of sufficiency (time, money, love, energy, space, resource) creates a profound shift in their relationship with others, work, and life.
 
 ---
 
@@ -218,7 +181,7 @@ Nir Eyal and Ryan Hoover
 - For example, Pinterest users invest in the site every time they pin an image of their own, repine someone else's image, comment on, or like a piece of content on the site. Each of these small investments gives Pinterest data to tailor the website to each user's taste. Same for LinkedIn, Youtube, Netflix, Instagram, Facebook, etc.
 
 **#7 - Two important product questions:**
-- "Would you use it?" — The answer must be "yes."
+- "Would you use it?" — the answer must be "yes."
 - "Does it help users achieve their desired goals?"
 
 **#8 - Five fundamental questions for Hook model:**
