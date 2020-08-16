@@ -82,13 +82,13 @@ Leadership
 Jim Dethmer, Diana Chapman, Kailey Warner Klempaw	
 
 **#1 - Understand where you are: “above the line” vs. “below the line.”**
-- Above the line: open, curious, committed to learning.
-- Below the line: closed, defensive, committed to being right.
+- `Above the line` — open, curious, committed to learning.
+- `Below the line` — closed, defensive, committed to being right.
 - Interrupt when you are below the line by pausing to breathe, accept, and shift.
 
 **#2 - Practicing integrity, and Taking radical responsibility.**
-- Above the line: Conscious leaders are impeccable with their agreements. They clear agreements, keep them, renegotiate when needed, and clean them up when broken. Take full responsibility and ask, “what can we learn, and how can we grow from this?” 
-- Below the line: blame, shame, and guilt come from toxic fear, which drives the victim-villain-hero triangle.
+- `Above the line` — Conscious leaders are impeccable with their agreements. They clear agreements, keep them, renegotiate when needed, and clean them up when broken. Take full responsibility and ask, “what can we learn, and how can we grow from this?” 
+- `Below the line`: — blame, shame, and guilt come from toxic fear, which drives the victim-villain-hero triangle.
 
 **#3 - Learning through curiosity.**
 - Self-awareness and learning agility create sustained success in leaders.
@@ -108,13 +108,13 @@ Jim Dethmer, Diana Chapman, Kailey Warner Klempaw
 **#6 - Seeing the world as an ally, and creating a win for all solutions.**
 - Conscious leaders commit to seeing all people and circumstances as allies in their growth and development.
 - Other people don’t even have to commit to being your ally, consciously. If you are committed to experiencing them that way, they are always instrumental to your growth.
-- Don’t fall into: “scarcity -> zero-sum game -> competition - win/lose -> drama” trap.
+- Don’t fall into: `scarcity -> zero-sum game -> competition - win/lose -> drama` trap.
 
 **#7 - Excelling in your Zone of Genius.**
 - Spend time with team members to assess, understand, and appreciate their unique genius qualities and talents. Help them use their strong genius talents more.
 - Four zones: incompetence, competence, excellence, genius
-- Genius: it’s the work that you love doing, so it does not feel like work.
-- Incompetence: dump it, delegate it, or do it differently.
+- `Genius` — it’s the work that you love doing, so it does not feel like work.
+- `Incompetence` — dump it, delegate it, or do it differently.
 
 **#8 - Finding the right balance and having enough of everything.**
 - Organizations that take rest and play are productive and creative.
