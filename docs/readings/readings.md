@@ -38,7 +38,7 @@ You can find a countless number of data science blogs and subscribe to their upd
 
 ## 10 Bullets
 
-I have summarized each reading in 10 bullet points with two goals in mind: (1) to grasp the main messages with a small time investment, which will help you make a decision whether to invest more time to get to learn the details, and (2) to move up the forgetting curve by periodically revisiting the material and quickly going over the key points through your mobile device. 
+I have summarized each reading in up to 10 bullet points with two goals in mind: (1) to grasp the main messages with a small time investment, which will help you make a decision whether to invest more time to get to learn the details, and (2) to move up the forgetting curve by periodically revisiting the material and quickly going over the key points through your mobile device. 
 
 <p>&nbsp;</p>
 

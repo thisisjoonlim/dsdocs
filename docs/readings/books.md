@@ -74,12 +74,12 @@ Author: Geoffrey G Parker, Sangeet Paul Choudary, Marshall Van Alstyne
 
 ---
 
-## 2015 - 15 Commitments of Concious Leadership
+## 2015 - 15 Commitments of Conscious Leadership
 {: .d-inline-block }
 Leadership
 {: .label .label-yellow }
 
-Author: Jim Dethmer, Diana Chapman, Kailey Warner Klemp
+Jim Dethmer, Diana Chapman, Kailey Warner Klempaw	
 
 “above the line” vs. “below the line”
 - open, curious, committed to learning vs. closed, defensive, committed to being right
@@ -185,45 +185,48 @@ Author: Ben Horowitz
 {: .d-inline-block }
 Product
 {: .label .label-green }
-Author: Nir Eyal and Ryan Hoover
 
-- The ultimate goal of a habit-forming product is to solve the user’s pain by creating an association so that the user identifies the company’s product or service as the source of relief.
-- A product should be a painkiller to users (must have), not a vitamin (good to have). 
-	- Painkillers solve an obvious need, relieving a specific pain, and often have quantifiable markets. On the other hand, Vitamins appeal to users’ emotional rather than functional needs.
-	- Habit-forming technologies seem at first to be offering nice-to-have vitamins, but once the habit is established, they provide an ongoing pain remedy.
-- Habit-forming potential = f( Frequency, Perceived Utility )
-	- the function is multiplicative (e.g. Cobb-Douglas Utility Curve in Economics).
-- External Triggers are embedded with information, which tells the user what to do next. 
-	- Paid Triggers are generally used to acquire new users. E.g. Ads, SEO Marketing.
-	- Earned Triggers drive ongoing user acquisition but they are short-lived. E.g. Favorable press mentions, hot viral videos, featured app store placements.
-	- Relationship Triggers are like one person telling others about the product. E.g. M2G Invites in LinkedIn, FB, etc.
-	- Owned Triggers prompt repeat engagement until the habit is formed. E.g. Badging, Subscriptions, Push Notifications.
-- Internal Trigger is basically user's itch. Emotions, particularly negative ones, are powerful internal triggers. New habits are sparked by external triggers, but associations with internal triggers are what keeps users hooked.
-- (B = MAT) Fogg’s Behavioral Model suggests a given behavior will occur when motivation, ability, a trigger are present at the same time and in sufficient degrees. 
-	- (Ability) Significantly reduces the steps to complete a task will enjoy high adoption rates by the people it assists.
-	- Fogg’s element of simplicity: Time, Money, Physical effort, Brain Cycles, Social Deviance, Non-Routine. E.g. Apple camera feature launchable at lock screen, motorola tilting to launch camera, Google searching assistances (spelling correction, predictive results), Login with Google/ FB accounts.
-	- Motivation Trick (Heuristics) 
-		- Scarcity Effect: appearance of scarcity affected their perception of value.
-		- Framing Effect: mind takes shortcuts informed by our surroundings to make quick and sometimes erroneous judgements.
-		- Endowed Progress Effect: increases motivation as people believe they are nearing a goal. E.g. LinkedIn Profile Completion Progress Bar.
-- To hold our attention, products must have an ongoing degree of novelty. When we encounter something outside the norm, we suddenly become aware of it again.
-- ‘Variability' impacts on Retention. There are 3 Variable Rewards Types: 
-	- Tribe: Our brains are adopted to seek rewards that make us feel accepted, attractive, important, and included. “Social Connectedness”
-	- Hunt: Pursuit of material resources and information
-	- Self: People desire to again a sense of competency. E.g. unlocking special power in World of Warcraft.
-	- Watch out for the finite variability and make sure to provide a sense of autonomy.
-- Escalation of Commitment suggests that the more users invest time and effort into a product or service, the more they value it. And the stored value users put into the product increases the likelihood they will use it again in the future and comes in a variety of forms. E.g. Content, Data, Followers, Reputations, Skills 
-	- Example, Pinterest users invest in the site every time they pin an image of their own, repine someone else’s image, comment on, or like a piece of content on the site. Each of these tiny investments gives Pinterest data in can use to tailor the site to each user’s individual taste.
-- Two Important Product Questions and Five Fundamental Questions for Hook Model. 
-	- 2 Important Product Questions 
-		1. "Would you use?” — answer must be “yes"
-		2. “Does it improve user’s life?"
-	- 5 Fundamental Questions for Hook Model 
-		1. What do users really want? What pain is your product relieving? (Internal Trigger)
-		2. What brings users to your service? (External Trigger)
-		3. What is the simplest action users take in anticipation of reward, and how can you simplify your product to make this action easier? (Action)
-		4. Are users fulfilled by the reward yet left wanting more? (Variable Rewards)
-		5. What “bit of work” do users invest in your product with an expectation of enjoying a better experience in the future? Does it load the next trigger and store value to improve the product with use? (Investment)
+Nir Eyal and Ryan Hoover
+
+**#1 - Habit-forming potential: the more you use, the broader benefits you receive.**
+- A habit-forming product is to solve the user's pain by creating an association to identify the company's product or service as the source of relief.
+
+**#2 - Painkiller vs. Vitamin.**
+- Painkillers solve an obvious need, relieving a specific pain, and often have quantifiable markets. On the other hand, Vitamins appeal to users' emotional rather than functional needs. Habit-forming technologies seem to offer nice-to-have vitamins first, but once the habit is formed, they provide an ongoing pain remedy.
+
+**#3 - New habits, which are sparked by external triggers but associated with internal triggers, keep users hooked.**
+- Paid external triggers are generally used to acquire new users. E.g., Ads, SEO Marketing.
+- Earned external triggers drive ongoing user acquisition, but they are short-lived. E.g., Favorable press mentions, hot viral videos, featured app store placements.
+- Relationship external triggers are like one person telling others about the product.
+- Owned external triggers prompt repeat engagement until the habit is formed. E.g., Badging, Subscriptions, Push Notifications.
+- Internal trigger is the user's itch. Emotions, particularly negative ones, are powerful internal triggers.
+
+**#4 - Fogg's Behavioral Model suggests an action will occur when motivation, ability, trigger are present and in sufficient degrees.**
+- Improve ability: significantly reduces the steps to complete a task will enjoy high adoption rates
+- Motivation tricks: scarcity effects — the appearance of scarcity affected their perception of value.
+- Motivation tricks: framing effects — mind takes shortcuts informed by our surroundings to make quick judgments.
+- Motivation tricks: endowed progress effects — increases motivation as people believe they are nearing a goal.
+
+**#5 - Provide variable rewards — the 'variability' boosts retention.**
+- Products must have an ongoing degree of novelty to hold our attention. When we encounter something outside the norm, we suddenly become aware of it again.
+- Our brains are adapted to seek rewards that make us feel accepted, attractive, important, and included, and competent.
+- People pursue material resources and information.
+- Examples: social connectedness, gamification
+
+**#6 - When people invest more time and effort into a product or service, they value it more.** 
+- Enhanced rewards from investments that users put into the product increase the likelihood they will use it again (E.g., content, followers, reputations, skills, levels).
+- For example, Pinterest users invest in the site every time they pin an image of their own, repine someone else's image, comment on, or like a piece of content on the site. Each of these small investments gives Pinterest data to tailor the website to each user's taste. Same for LinkedIn, Youtube, Netflix, Instagram, Facebook, etc.
+
+**#7 - Two important product questions:**
+- "Would you use it?" — The answer must be "yes."
+- "Does it help users achieve their desired goals?"
+
+**#8 - Five fundamental questions for Hook model:**
+- `Internal Trigger` What do users want? What pain is your product relieving?
+- `External Trigger` What brings users to your service?
+- `Action` What is the simplest action users take in anticipation of reward, and how can you simplify your product to make this action easier?
+- `Variable Rewards` Are users fulfilled by the reward yet left wanting more?
+- `Investment` What small investment do users make in your product with an expectation of enjoying a better experience in the future? Does it load the next trigger and store value to improve the product with use?
 
 ---
 
@@ -232,19 +235,20 @@ Author: Nir Eyal and Ryan Hoover
 Product
 {: .label .label-green }
 
-Author: Ryan Holiday
+Ryan Holiday
 
 **#1 - Get your Product-Market-Fit (PMF) Right.**
-- Product-Market-Fit. This means shaping your product so it fits with market needs, and the only way to do that is to test what works. To increase the odd of success, start small with a MVP and check out the market response before making a significant investment. This ensures you have a market focus, rather than a company or product focus. Then write the FAQ. Then build a prototype to iteratively test, learn, optimize.
+- Shape your product to fit with market needs. To increase the odds of success, start small with an MVP to examine the market response before making a significant investment. Then, build a prototype to test, learn, and optimize iteratively.
 
-**#2 - Find your Growth Strategy.**
-- Growth hacking uses a test-and-learn approach to identify a product that is worth marketing. But once you find a product with a good PMF, you need to market it. And to do this, you use the same test-and-learn approach – prototype and pilot your marketing, then do more of what works and less of what doesn’t. For example, Uber found that what worked was to offer free car rides at conferences, free deliveries (e.g. BBQs), and free ride gift cards. So rather than expensive ad campaigns, Uber has grown by creatively ‘hacking’ the idea of sampling.
+**#2 - Find the right growth strategy that works for your product.**
+- Once you find a product with a good PMF, you need to market it using the test-and-learn approach – build a prototype and pilot your marketing, then do more of what works and less of what doesn’t. For example, Uber found that what worked was to offer free car rides at conferences, free deliveries, and gift cards (vs. ad campaigns).
 
-**#3 - Virality is your secret weapon for Growth.**
-- It’s every marketers dream, but there is a simple science to viral products. Growth hackers can hack this natural process, and accelerate it. Seed your product with influencers, make it visible (every Apple Mac is shipped with Apple stickers), and offer a referral program. For example, when Dropbox introduced its customer-get-customer referral program signups jumped by 60% - Dropbox gave extra storage space to both the referrer and the referees.
+**#4 - Virality is your secret weapon for growth.**
+- Seed your product with influencers, make it visible (e.g., every Apple Mac comes with Apple stickers), and offer a referral program. For example, Dropbox offered the Customer-Get-Customer referral program and gave extra storage space to both the referrer and the referees.
 
-**#4 - Growth is all about the retention.**
-- Growth hacking is not a one-shot effort. In order to grow a brand, you not only need new customers, you need customers who keep coming back for more – and bringing their friends. So from a growth-hacker perspective, customer retention can be your best customer acquisition strategy. This is why a five percent increase in retention can typically deliver a 30% growth in profitability (Bain). This is why high-growth brands such as Uber focus on constant innovation that optimizes the experience for customers and ROI for the company.
+**#5 - Growth is all about retention.** 
+- To grow a brand, you need new customers, but you also need customers who keep coming back for more – and bringing their friends. Customer retention is your best customer acquisition strategy. Innovate and optimize the customer experience to move up your retention curve.
+
 
 ---
 
@@ -253,7 +257,7 @@ Author: Ryan Holiday
 Leadership
 {: .label .label-yellow }
 
-Author: Liz Wiseman and Greg McKeown
+Liz Wiseman and Greg McKeown
 
 **#1 - ...**
 
@@ -281,24 +285,61 @@ Author: Liz Wiseman and Greg McKeown
 
 ---
 
-## 2002 - The Five Dysfunctions of a Team
+## 2002 - The Five Dysfunctions Of A Team
 {: .d-inline-block }
 Management
 {: .label .label-yellow }
 
-Author: Patrick Lencioni
+Patrick Lencioni
+
+**#1 - The leader's role in overcoming these dysfunctions is to lead by example and set the tone for the whole team, which includes:**
+- Being the first one to be vulnerable
+- Encouraging debate and conflict
+- Making responsibilities and deadlines clear
+- Setting the team's standards
+- Being clear on the team's results
+
+**#2 - Absence of trust makes defensive behaviors and reluctant to ask for help.**
+- Happens when team members are unable to be vulnerable and open to one another.
+- Overcome by creating an environment that does not punish vulnerability and demonstrating vulnerability first.
+- Reviewing MBTI, DiSC, 5 Dynamics results together helps build trust.
+
+**#3 - Fear of conflict makes inferior decisions because team members do not openly discuss.**
+- Happens when lacking trust and psychological safety.
+- Overcome by understanding that the conflict is natural, healthy, and productive, demonstrating restraint when people engage in conflict, and allowing the resolution to occur maternally as messy as it can sometimes be.
+- Healthy conflict is a time saver as it helps avoid revisiting issues again and again without resolution.
+
+**#4 - Lack of commitment makes the environments where ambiguity prevails.**
+- Happens when people feel their opinions are not considered, and voices are not heard.
+- Overcome by making sure everyone is heard (e.g., "disagree but commit").
+
+**#5 - Avoidance of accountability makes team members naturally tend to look out for their interests, rather than the interests of the team.**
+- Happens when lacking commitment — people aren't going to hold each other accountable if they haven't bought into the plan.
+- Overcome by demonstrating that the team respectfully have high expectations for one another's performance and measuring progress and success.
+- Accountability is a willingness of team members to call their peers on performance or behaviors that might hurt the team.
+
+**#6 - Inattention to results fails the business.**
+- Happens when individuals aren't held accountable.
+- Overcome by making the team results clear (placed above the individual's status) and rewarding the behaviors that contribute to the team's success.
+
+---
+## 2002 - Conscious Business
+{: .d-inline-block }
+Leadership
+{: .label .label-yellow }
+
+Fred Kofman
 
 **#1 - ...**
 
 ---
-
 
 ## 2001 - Crucial Conversations
 {: .d-inline-block }
 Leadership
 {: .label .label-yellow }
 
-Author: Kerry Patterson, Joseph Grenny, Ron McMillan, Al Switzler
+Kerry Patterson, Joseph Grenny, Ron McMillan, Al Switzler
 
 **#1 - Learn to manage crucial conversations**
 - "A crucial conversation is a discussion between two or more people where the stakes are high, opinions vary, and emotions run strong."
