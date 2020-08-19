@@ -2,7 +2,6 @@
 layout: default
 title: Books
 parent: Readings
-permalink: /docs/readings
 ---
 
 # A List of Books
