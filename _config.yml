@@ -95,6 +95,9 @@ color_scheme: nil
 ga_tracking: UA-176053789-1
 ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
 
+# Google Adsense Tracking (optional)
+google_ad_client: ca-pub-6999159714593137
+
 plugins:
   - jekyll-seo-tag
 

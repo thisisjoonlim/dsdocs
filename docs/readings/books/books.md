@@ -2,6 +2,7 @@
 layout: default
 title: Books
 parent: Readings
+has_children: true
 ---
 
 # A List of Books
