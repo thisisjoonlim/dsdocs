@@ -10,8 +10,13 @@ grand_parent: Readings
 Management
 {: .label .label-yellow }
 
-## Author: Julie Zhuo 
-{: .no_toc .text-delta }
+Author: Julie Zhuo 
+{: .text-delta .pb-4 }
+
+---
+
+#### Summary 
+{: .no_toc }
 
 1. TOC
 {:toc}
