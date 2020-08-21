@@ -380,18 +380,18 @@ Fred Kofman
 - This last year, have I had opportunities at work to learn and grow?
 
 **#9 - 12 transformations along the path from unconscious to conscious business:**
-- (Responsibility) From blaming to owning: stop acting like a mere victim of circumstances out of your control and take charge of your life.
-- (Wisdom) From winning to meaning: stop pursuing only competitive goals and realize that happiness comes from pursuing a noble purpose through ethical means.
-- (Humility) From knowing to learning: stop trying to prove that you’re always right and open up to new possibilities.
-- (Compassion) From judging to understanding: stop seeing people through your mental filters and put yourself in their shoes.
-- (Courage) From avoiding to confronting: stop suppressing uncomfortable information and face reality.
-- (Honesty) From pleasing to truth-telling: stop altering your story to be liked by others and start telling the truth to be liked by yourself.
-- (Respect) From controlling to considering: stop telling people what to do and take into account what they want to do.
-- (Creativity) From taking to trading: stop negotiating win-lose and look for ways in which everybody can be better off through an exchange.
-- (Integrity) From defaulting to delivering: stop defrauding your creditors and honor your promises unconditionally.
-- (Discipline) From indulging to investing: stop seeking immediate gratification and postpone pleasure for the sake of happiness.
-- (Commitment) From complying to committing: stop obeying as if you had no choice and choose to do what you do entirely.
-- (Vision) From bossing to leading: stop managing people through external rewards and punishments and inspire them with a dignifying purpose.
+- `Responsibility` From blaming to owning: stop acting like a mere victim of circumstances out of your control and take charge of your life.
+- `Wisdom` From winning to meaning: stop pursuing only competitive goals and realize that happiness comes from pursuing a noble purpose through ethical means.
+- `Humility` From knowing to learning: stop trying to prove that you’re always right and open up to new possibilities.
+- `Compassion` From judging to understanding: stop seeing people through your mental filters and put yourself in their shoes.
+- `Courage` From avoiding to confronting: stop suppressing uncomfortable information and face reality.
+- `Honesty` From pleasing to truth-telling: stop altering your story to be liked by others and start telling the truth to be liked by yourself.
+- `Respect` From controlling to considering: stop telling people what to do and take into account what they want to do.
+- `Creativity` From taking to trading: stop negotiating win-lose and look for ways in which everybody can be better off through an exchange.
+- `Integrity` From defaulting to delivering: stop defrauding your creditors and honor your promises unconditionally.
+- `Discipline` From indulging to investing: stop seeking immediate gratification and postpone pleasure for the sake of happiness.
+- `Commitment` From complying to committing: stop obeying as if you had no choice and choose to do what you do entirely.
+- `Vision` From bossing to leading: stop managing people through external rewards and punishments and inspire them with a dignifying purpose.
 
 ---
 

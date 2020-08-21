@@ -92,8 +92,7 @@ gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into t
 color_scheme: nil
 
 # Google Analytics Tracking (optional)
-# e.g, UA-1234567-89
-ga_tracking: UA-XXXXXXXXX-X
+ga_tracking: UA-176053789-1
 ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
 
 plugins:
