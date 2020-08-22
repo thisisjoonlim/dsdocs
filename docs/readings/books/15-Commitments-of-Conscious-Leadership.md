@@ -6,13 +6,13 @@ grand_parent: Readings
 ---
 
 # 2015 - 15 Commitments of Conscious Leadership
-{: .no_toc .d-inline-block }
-
-Jim Dethmer, Diana Chapman, Kailey Warner Klempaw
-{: .text-delta .d-inline-block}
+{: .no_toc }
 
 Leadership
-{: .label .label-yellow .pb-4 }
+{: .label .label-yellow }
+
+Jim Dethmer, Diana Chapman, Kailey Warner Klempaw
+{: .text-delta .pb-4 }
 
 ---
 
