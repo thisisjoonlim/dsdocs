@@ -1,7 +1,8 @@
 // Print-only styles.
 @media print {
-    .side-bar, #formbutton-container, #disqus_thread { display: none; }
+    .side-bar, .disqus_container, #formbutton-container { display: none; }
     .main-content { max-width: auto; margin: 1em;}
+    body { -webkit-print-color-adjust: exact !important; }
 }
 
 // Animated Collapsible (Slide Down)
