@@ -6,7 +6,7 @@ grand_parent: Readings
 ---
 
 # 2015 - 15 Commitments of Conscious Leadership
-{: .no_toc }
+{: .no_toc .d-inline}
 
 Leadership
 {: .label .label-yellow }
