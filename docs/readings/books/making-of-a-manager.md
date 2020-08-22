@@ -6,11 +6,12 @@ grand_parent: Readings
 ---
 
 # 2019 - Making Of A Manager
-{: .no_toc .d-inline-block }
+{: .no_toc .d-inline .print-title-size }
+
 Management
 {: .label .label-yellow }
 
-Author: Julie Zhuo 
+Julie Zhuo 
 {: .text-delta .pb-4 }
 
 ---
