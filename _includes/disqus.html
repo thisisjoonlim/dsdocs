@@ -1,8 +1,6 @@
 {% if page.comments != false and jekyll.environment == "production" %}
-<div class="disqus_container">
-  <hr>
-  <div id="disqus_thread"></div>
-</div>
+<div id="disqus_container"><hr></div>
+<div id="disqus_thread"></div>
 <script>
     var disqus_config = function () {
       this.page.url = '{{ page.url | absolute_url }}';
