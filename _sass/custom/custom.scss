@@ -17,3 +17,15 @@
     background-color: #fff;
 }
 
+// for the summary headline
+h5,
+.text-epsilon {
+  @include fs-4;
+  padding: 1%;
+  color: #ffffff;
+  background-color: #8c9da9;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
