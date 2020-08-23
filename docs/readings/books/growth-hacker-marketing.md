@@ -5,7 +5,7 @@ parent: Books
 grand_parent: Readings
 ---
 
-# 2014 - Growth Hacker Marketingr
+# 2014 - Growth Hacker Marketing
 {: .no_toc .d-inline .print-title-size }
 
 Product

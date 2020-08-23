@@ -22,17 +22,6 @@ Author: Ray Dalio
 
 ---
 
-## 2017 - Radical Candor
-{: .d-inline-block }
-Leadership
-{: .label .label-yellow }
-
-Author: Kim Scott
-
-**#1 - ...**
-
----
-
 ## 2016 - Platform Revolution
 {: .d-inline-block }
 Product

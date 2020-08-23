@@ -24,12 +24,12 @@ Patrick Lencioni
 
 ---
 
-##### The leader's role in overcoming these dysfunctions is to lead by example and set the tone for the whole team, which includes:
-- Being the first one to be vulnerable
-- Encouraging debate and conflict
-- Making responsibilities and deadlines clear
-- Setting the team's standards
-- Being clear on the team's results
+##### Lead by example, and set the tone for the whole team:
+- Being the first one to be vulnerable.
+- Encouraging debate and conflict.
+- Making responsibilities and deadlines clear.
+- Setting the team's standards.
+- Being clear on the team's results.
 
 ##### Absence of trust makes defensive behaviors and reluctant to ask for help.
 - Happens when team members are unable to be vulnerable and open to one another.

@@ -24,7 +24,7 @@ Nir Eyal and Ryan Hoove
 
 ---
 
-##### Habit-forming potential: the more you use, the broader benefits you receive.
+##### Habit-forming: the more you use, the broader benefits you receive.
 - A habit-forming product is to solve the user's pain by creating an association to identify the company's product or service as the source of relief.
 {: .pb-4 }
 
