@@ -3,7 +3,7 @@ layout: default
 title: Conscious Business 
 parent: Books
 grand_parent: Readings
-nav_order: -2002
+nav_order: 2002
 ---
 
 # 2002 - Conscious Business 
@@ -13,7 +13,7 @@ Leadership
 {: .label .label-yellow }
 
 Fred Kofman
-{: .text-delta .pb-4 }
+{: .text-delta .pb-6 }
 
 ---
 
@@ -28,14 +28,17 @@ Fred Kofman
 ##### Take unconditional responsibility and see yourself as a player (vs. victim).
 - The player is in the game and can affect the result. 
 - The victim is out of the game, can only suffer the consequences of others’ actions, and pays attention only to those factors they cannot influence.
+{: .pb-5 }
 
 ##### Integrity is essential and what’s beyond success.
 - Success is in the future and is the outcome of a process that takes time and depends on factors beyond our control. In contrast, integrity is immediate and unconditional and is the alignment between your behavior and your values. When it comes to integrity, we can always be players.
 - Enact the universal virtues of wisdom, courage, low, justice, temperance, and transcendence and seek success beyond success.
+{: .pb-5 }
 
 ##### Stay open, and avoid to stake your self-esteem on being right.
 - Assume that your rationality is limited, other perspectives are complementary, and errors are learning opportunities.
 - Define goals and strategies consensually, win with others, share their views, listen to others’ opinions, maximize internal commitment through free and informed choices, and accept feelings as valid.
+{: .pb-5 }
 
 ##### Manage difficult conversations respectfully and negotiate constructively.
 - Create a respectful context for the conversation - mutual respect and trust.
@@ -44,10 +47,12 @@ Fred Kofman
 - Brainstorm creative ways to satisfy both of your needs.
 - Recommend actions, ensure comprehension, accept challenges, and find shared solutions.
 - Implement/leverage an agreed-upon decision-making process when unable to reach shared solutions (e.g., the RAPID framework).
+{: .pb-5 }
 
 ##### Create a culture of impeccability by demanding accountability and praising contributions.
 - Transform a broken commitment into a positive, productive opportunity through a productive complaint: verify the previous commitment and failure, evaluate the damage, express the complaint, request reparations, negotiate a recommitment, and learn and prepare for the future.
 - Encourage excellence through appreciation, and give powerful praise that is public, direct, concrete, and respectful. 
+{: .pb-5 }
 
 ##### Master your emotion.
 - Reflect on your inner states and make them an object of your awareness.
@@ -56,6 +61,7 @@ Fred Kofman
 - Analyze your thoughts and find the root stories of the emotion.
 - Articulate the story behind the emotion. 
 - Example - “I feel A when B because I think C. Does this make sense to you? What I’d like is D, so I want to ask you E. Is that acceptable to you?”
+{: .pb-5 }
 
 ##### Recognize and avoid unconscious attitudes, interactions, and reactions.
 - Focus on ego gratification without concern for the well-being of others.
@@ -64,6 +70,7 @@ Fred Kofman
 - Attempt to prove your worth by beating up your opponent. 
 - Carelessly collaborate, make promises without a serious commitment to honor them. 
 - Explosion and repression.
+{: .pb-5 }
 
 ##### Created an environment that team emphatically answered “yes” when asked the following questions:
 - Do I know what is expected of me at work?
@@ -75,6 +82,7 @@ Fred Kofman
 - Do my opinions seem to count at work?
 - Is there someone at work who encourages my development?
 - This last year, have I had opportunities at work to learn and grow?
+{: .pb-5 }
 
 ##### 12 transformations along the path from unconscious to conscious business:
 - `Responsibility` From blaming to owning: stop acting like a mere victim of circumstances out of your control and take charge of your life.

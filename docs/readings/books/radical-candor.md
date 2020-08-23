@@ -3,7 +3,7 @@ layout: default
 title: Radical Candor 
 parent: Books
 grand_parent: Readings
-nav_order: -2017
+nav_order: 2017
 ---
 
 # 2017 - Radical Candor
@@ -26,3 +26,5 @@ Liz Wiseman
 ---
 
 ##### 
+
+
