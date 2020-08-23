@@ -3,6 +3,7 @@ layout: default
 title: Crucial Conversations 
 parent: Books
 grand_parent: Readings
+nav_order: -2001
 ---
 
 # 2001 - Crucial Conversations 

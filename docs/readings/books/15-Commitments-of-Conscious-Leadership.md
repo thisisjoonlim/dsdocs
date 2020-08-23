@@ -3,6 +3,7 @@ layout: default
 title: 15 Commitments of Conscious Leadership
 parent: Books
 grand_parent: Readings
+nav_order: -2015
 ---
 
 # 2015 - 15 Commitments of Conscious Leadership

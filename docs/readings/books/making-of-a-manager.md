@@ -3,6 +3,7 @@ layout: default
 title: Making Of A Manager
 parent: Books
 grand_parent: Readings
+nav_order: -2019
 ---
 
 # 2019 - Making Of A Manager

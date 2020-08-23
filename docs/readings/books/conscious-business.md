@@ -3,6 +3,7 @@ layout: default
 title: Conscious Business 
 parent: Books
 grand_parent: Readings
+nav_order: -2002
 ---
 
 # 2002 - Conscious Business 
