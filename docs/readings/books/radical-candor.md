@@ -24,8 +24,9 @@ Liz Wiseman
 {:toc}
 
 ---
-
-![radical_candor](/assets/images/radicalcandor.png){: height="60%" width="60%" .center-image }
+<div class="reading_img_container">
+![radical_candor](/assets/images/radicalcandor.png){: height="60%" width="60%" }
+</div>
 
 Image: radicalcandor.com
 {: .text-delta .text-center }
