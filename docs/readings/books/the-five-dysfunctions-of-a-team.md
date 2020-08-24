@@ -59,3 +59,4 @@ Patrick Lencioni
 ##### Inattention to results fails the business.
 - Happens when individuals aren't held accountable.
 - Overcome by making the team results clear (placed above the individual's status) and rewarding the behaviors that contribute to the team's success.
+{: .pb-5 }

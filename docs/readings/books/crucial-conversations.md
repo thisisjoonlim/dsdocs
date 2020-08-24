@@ -71,3 +71,4 @@ Kerry Patterson, Joseph Grenny, Ron McMillan, Al Switzler
 ##### Move to action.
 - Come to consensus, drive commitment (who does what by when), and follow up.
 - Use decision-making tools effectively: Command, Consult, Vote, and Consensus.
+{: .pb-5 }

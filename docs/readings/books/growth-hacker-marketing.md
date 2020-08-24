@@ -39,3 +39,4 @@ Ryan Holiday
 
 ##### Growth is all about retention. 
 - To grow a brand, you need new customers, but you also need customers who keep coming back for more – and bringing their friends. Customer retention is your best customer acquisition strategy. Innovate and optimize the customer experience to move up your retention curve.
+{: .pb-5 }

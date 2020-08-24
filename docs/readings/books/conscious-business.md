@@ -97,3 +97,4 @@ Fred Kofman
 - `Discipline` From indulging to investing: stop seeking immediate gratification and postpone pleasure for the sake of happiness.
 - `Commitment` From complying to committing: stop obeying as if you had no choice and choose to do what you do entirely.
 - `Vision` From bossing to leading: stop managing people through external rewards and punishments and inspire them with a dignifying purpose.
+{: .pb-5 }

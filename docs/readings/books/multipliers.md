@@ -67,3 +67,4 @@ Liz Wiseman
 ##### Nothing grows under a banyan tree.
 - Understand that you sometimes need to do less to achieve more.
 - Diminishers are absorbed in their intelligence, stifle others, and deplete the organization of intelligence and capability.
+{: .pb-5 }
