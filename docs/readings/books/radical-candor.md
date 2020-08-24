@@ -38,12 +38,12 @@ Image: radicalcandor.com
 - Helpful in creating a culture of feedback and building a cohesive team for leaders.
 {: .pb-5 }
 
-##### Good working relationship is highly personal.
+##### Good working relationships are highly personal.
 - The most successful leaders build great relationships with colleagues. They should personally care about their colleagues, open up, share, and talk about more than just business to establish personal relationships.
 - However, being candid and direct doesn’t always mean friendly and caring. Challenge your colleagues directly in caring using non-judgmental language when they’re not meeting expectations. If your feedback is in their best interest, they will understand it.
 {: .pb-5 }
 
-##### Have candid career discussions with your staff that reveal their motivations. 
+##### Have candid career discussions that reveal their motivations. 
 - Meaningful career conversations will help motivate the team. You will understand their aspirations, and they will know that you invested in assisting them to get on the right career path. 
 - Three areas to consider in your career conversation: their career journey, career aspiration, and short-term career plan. Through the discussion, find their motivations, and share how you can help them stay on the right track.
 {: .pb-5 }
