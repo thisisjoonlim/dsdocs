@@ -9,10 +9,10 @@ nav_order: 2017
 # 2017 - Radical Candor
 {: .no_toc .d-inline .print-title-size }
 
-Leadership
+Management
 {: .label .label-yellow }
 
-Liz Wiseman
+Kim Scott
 {: .text-delta .pb-4 }
 
 ---
@@ -25,7 +25,7 @@ Liz Wiseman
 
 ---
 <div class="reading_img_container">
-    <img src = "/assets/images/radicalcandor.png" style="height:60%;width:60%;">
+    <img src = "/assets/images/radicalcandor.png" style="height:70%;width:70%;">
 </div>
 
 Image: radicalcandor.com

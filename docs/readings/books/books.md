@@ -11,17 +11,6 @@ has_children: true
 
 ---
 
-## 2017 - Principles
-{: .d-inline-block }
-Leadership
-{: .label .label-yellow }
-
-Author: Ray Dalio
-
-**#1 - ...**
-
----
-
 ## 2016 - Platform Revolution
 {: .d-inline-block }
 Product
