@@ -25,7 +25,7 @@ Liz Wiseman
 
 ---
 
-![radical_candor](https://mk0radicalcandov3r1t.kinstacdn.com/wp-content/uploads/2019/04/2x2-1024x866.png){: height="50%" width="50%" align="center" }
+![radical_candor](/assets/images/radicalcandor.png){: height="50%" width="50%" align="center" }
 
 Photo: radicalcandor.com
 {: .text-delta .text-center }
