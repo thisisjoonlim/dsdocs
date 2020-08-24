@@ -25,7 +25,7 @@ Liz Wiseman
 
 ---
 <div class="reading_img_container">
-![radical_candor](/assets/images/radicalcandor.png){: height="60%" width="60%" }
+    <img src = "/assets/images/radicalcandor.png" style="height:60%;width:60%;">
 </div>
 
 Image: radicalcandor.com
