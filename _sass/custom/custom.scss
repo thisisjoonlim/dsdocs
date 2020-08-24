@@ -1,6 +1,6 @@
 // Print-only styles.
 @media print {
-    .side-bar, #disqus_container, #disqus_thread, #formbutton-container { display: none; }
+    .side-bar, #disqus_container, #disqus_thread, #formbutton-container, .amzn-native-container, #ads_container { display: none; }
     .main-content { max-width: auto; margin: 1em;}
     body { -webkit-print-color-adjust: exact !important; }
     .print-title-size { @include fs-5; }

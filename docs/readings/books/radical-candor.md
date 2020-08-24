@@ -25,9 +25,10 @@ Liz Wiseman
 
 ---
 
-![radical_candor](https://mk0radicalcandov3r1t.kinstacdn.com/wp-content/uploads/2019/04/2x2-1024x866.png){: height="100%" width="100%" }
+![radical_candor](https://mk0radicalcandov3r1t.kinstacdn.com/wp-content/uploads/2019/04/2x2-1024x866.png){: height="50%" width="50%" align="center" }
 
 Photo: radicalcandor.com
+{: .text-delta .text-center }
 
 ---
 
@@ -35,7 +36,5 @@ Photo: radicalcandor.com
 - Help you provide guidance/feedback in a way coming across as personal and helpful.
 - Helpful in creating a culture of feedback and building a cohesive team for leaders.
 
----
 
-{% include ads.html %}
 
