@@ -36,6 +36,7 @@ Image: radicalcandor.com
 ##### “Radical Candor” is caring personally, challenging directly.
 - Help you provide guidance/feedback in a way coming across as personal and helpful.
 - Helpful in creating a culture of feedback and building a cohesive team for leaders.
+- Help you achieve the delicate balance between being nice and holding people accountable.
 {: .pb-5 }
 
 ##### Good working relationships are highly personal.
