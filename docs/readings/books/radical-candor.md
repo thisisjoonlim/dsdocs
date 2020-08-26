@@ -58,7 +58,7 @@ Image: radicalcandor.com
 {: .pb-5 }
 
 ##### Avoid telling people what to do, practice collaborative leadership.
-- Treat your team as an opportunity to collaborate with talented individuals, and give them a sense of autonomy and agency so that they can be cnetered and bring their best selves to work.
+- Treat your team as an opportunity to collaborate with talented individuals, and give them a sense of autonomy and agency so that they can be centered and bring their best selves to work.
 
 - Create healthy debates, where the best ideas are presented and agreed upon.
 
@@ -71,7 +71,7 @@ Image: radicalcandor.com
 - You can guide your team to get results if you've built a trusting relationship with each person.
 {: .pb-5 }
 
-##### Provide candid feedback, take every consideration before firing employees.
+##### Take every consideration before firing employees.
 - When someone is underperforming, you should support their excellent work and be honest and direct in how they can improve, while avoiding personal attacks. 
 
 - You need to make every effort to help the employee improve their performance. And if you have doubts, it’s good to bring in an impartial third party and get their opinion on the matter.
