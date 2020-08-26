@@ -33,7 +33,7 @@ Image: radicalcandor.com
 
 ---
 
-##### “Radical Candor” is caring personally, challenging compassionately.
+##### Care personally, challenge compassionately.
 - Help you provide guidance/feedback in a way coming across as personal and helpful.
 
 - Helpful in creating a culture of open communication and building a cohesive team.
