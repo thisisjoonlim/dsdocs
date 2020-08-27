@@ -46,7 +46,7 @@ Image: tablegroup.com
 {: .pb-5 }
 
 ##### Absence of trust makes defensive behaviors and reluctant to ask for help.
-- Happens when team members are unable to be *vulnerable* and open to one another without filers. They are unwilling to admit their mistakes, fears, or needs for help.
+- Happens when team members are unable to be *vulnerable* and open to one another without filters. They are unwilling to admit their mistakes, fears, or needs for help.
 
 - Members of great teams trust one another on a fundamental, emotional level, and they are comfortable being vulnerable with each other about their weaknesses, mistakes, fears, and behaviors. 
 
