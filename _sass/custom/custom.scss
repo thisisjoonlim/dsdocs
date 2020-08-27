@@ -22,7 +22,7 @@
 // for the summary headline
 h5,
 .text-epsilon {
-  @include fs-4;
+  @include fs-3; 
   padding: 1%;
   color: #ffffff;
   background-color: #8c9da9;
@@ -45,5 +45,6 @@ h5,
 
 // paragraph formatting
 body {
-  color: rgba(41, 41, 41, 1)
+  @include fw-300;
+  color: rgba(41, 41, 41, 1);
 }
