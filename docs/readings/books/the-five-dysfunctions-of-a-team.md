@@ -25,7 +25,7 @@ Patrick Lencioni
 
 ---
 <div class="reading_img_container">
-    <img src = "/assets/images/thefivedisfunctionsofateam.png" style="height:70%;width:70%;">
+    <img src = "/assets/images/thefivedisfunctionsofateam.gif" style="height:70%;width:70%;">
 </div>
 
 Image: tablegroup.com
@@ -101,3 +101,4 @@ Image: tablegroup.com
 - Do team members confront one another about their shortcomings?
 
 - Do team members sacrifice their own interests for the good of the team?
+{: .pb-5 }
