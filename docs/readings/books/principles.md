@@ -148,5 +148,5 @@ Image: principles.com
 
 ---
 
-{% include youtubePlayer.html id=page.youtubeId %}
+{% include youtube.html id=page.youtubeId %}
 {: .py-5 }
