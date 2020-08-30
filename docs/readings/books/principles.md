@@ -41,7 +41,7 @@ determine how you behave and reflect your inner character and values."
 
 
 <div class="reading_img_container">
-    <img src = "/assets/images/principle1.jpg">
+    <img src = "/assets/images/principles1.png">
 </div>
 
 Image: principles.com
@@ -66,7 +66,7 @@ Image: principles.com
 
 
 <div class="reading_img_container">
-    <img src = "/assets/images/principle2.jpg">
+    <img src = "/assets/images/principles2.jpg">
 </div>
 
 Image: principles.com
@@ -145,3 +145,8 @@ Image: principles.com
 - "A manager's ability to recognize when outcomes are inconsistent with goals and then modify designs and assemble people to rectify them makes all the difference in the world. The more often and more effectively a manager does this, the steeper the upward trajectory."
 {: .pb-5 }
 
+---
+
+<iframe src="http://www.youtube.com/embed/HXbsVbFAczg" frameborder="0" allowfullscreen></iframe>
+
+---
