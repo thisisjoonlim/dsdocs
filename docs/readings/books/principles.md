@@ -24,12 +24,10 @@ Ray Dalio
 1. TOC
 {:toc}
 
----
 
 Principles are the fundamental truths that determine how you behave and reflect your inner character and values.
 {: .quote_style }
 
----
 
 ##### Develop your principles and systemize your decision making.
 - **It's up to you to decide what you want to get out of life and what you want to give.** Start with what you want, your real goals, and then work back to what you need to attain them.
@@ -91,12 +89,10 @@ Image: principles.com
 - **Hire right, because the penalties for hiring wrong are huge.** Look at the people who are willing to look at themselves objectively and pay attention to people's track records. Hire people you want to share your life with. And always train, test, evaluate, and sort people.
 {: .pb-5 }
 
----
 
 Bad times, coupled with good reflections, provide some of the best lessons.
 {: .quote_style }
 
----
 
 ##### Management Principles: "manage like the conductor of an orchestra."
 - **You should gain a rich enough understanding of the people, processes, problems around you to make well-informed decisions.** Then you need to know your people exceptionally well, provide and receive regular feedback, and have quality discussions. Use periodic updates as a tool for staying on top of what your people are doing and thinking.
@@ -110,12 +106,10 @@ Bad times, coupled with good reflections, provide some of the best lessons.
 - **Hold yourself and your people accountable and appreciate them for holding you accountable.** Holding people accountable means understanding them and their circumstances well enough to assess whether they can and should do some things differently, getting in sync with them about that and if they can't adequately do what is required, removing them from their jobs. Distinguish between a failure in which someone broke their contract and failure in which there was no contract, to begin with. And watch out for people who confuse goals and tasks, because if they can't make that distinction, you can't trust them with responsibilities. 
 {: .pb-5 }
 
----
 
 To be principled means to consistently operate with principles that can be clearly explained.
 {: .quote_style }
 
----
 
 ##### And some investment tips from Ray Dalio.
 - "One of the keys to being a successful investor is only to take bets you are highly confident in and to diversify them well."
