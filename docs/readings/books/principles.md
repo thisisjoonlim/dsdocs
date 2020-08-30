@@ -3,6 +3,7 @@ layout: default
 title: Principles 
 parent: Books
 grand_parent: Readings
+youtubeId: putYourIDHere
 nav_order: 2017
 ---
 
@@ -27,7 +28,7 @@ Ray Dalio
 
 "Principles are the fundamental truths that 
 determine how you behave and reflect your inner character and values."
-{: .pb-5 }
+{: .py-5 }
 
 ---
 
@@ -41,7 +42,7 @@ determine how you behave and reflect your inner character and values."
 
 
 <div class="reading_img_container">
-    <img src = "/assets/images/principles1.png">
+    <img src = "/assets/images/principles1.png" style="height:80%;width:80%;">
 </div>
 
 Image: principles.com
@@ -94,7 +95,7 @@ Image: principles.com
 ---
 
 "Bad times, coupled with good reflections, provide some of the best lessons."
-{: .pb-5 }
+{: .py-5 }
 
 ---
 
@@ -113,7 +114,7 @@ Image: principles.com
 ---
 
 “To be principled means to consistently operate with principles that can be clearly explained.”
-{: .pb-5 }
+{: .py-5 }
 
 ---
 
@@ -147,6 +148,5 @@ Image: principles.com
 
 ---
 
-<iframe src="http://www.youtube.com/embed/HXbsVbFAczg" frameborder="0" allowfullscreen></iframe>
-
----
+{% include youtubePlayer.html id=page.youtubeId %}
+{: .py-5 }
