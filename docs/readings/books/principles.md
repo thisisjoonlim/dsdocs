@@ -27,7 +27,7 @@ Ray Dalio
 ---
 
 > "Principles are the fundamental truths that determine how you behave and reflect your inner character and values."
-{: .py-5 }
+{: .py-5 .quote_style }
 
 ---
 
