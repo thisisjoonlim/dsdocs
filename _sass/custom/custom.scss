@@ -54,6 +54,7 @@ body {
   margin: 1.5em 10px;
   padding: 0.5em 10px;
   quotes: "\201C""\201D""\2018""\2019";
+  font-family: 'Times New Roman', Times, serif;
 }
 .quote_style:before {
   color: #ccc;
@@ -65,10 +66,8 @@ body {
 }
 .quote_style p {
   @include fs-6;
-  display: inline-block;
   font-weight: 400;
   font-style: italic;
-  font-family: 'Times New Roman', Times, serif;
   color: #a9a9a9;
   text-align: center;
 }
