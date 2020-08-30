@@ -41,7 +41,7 @@ determine how you behave and reflect your inner character and values."
 
 
 <div class="reading_img_container">
-    <img src = "/assets/images/principle1.png">
+    <img src = "/assets/images/principle1.jpg">
 </div>
 
 Image: principles.com
@@ -66,7 +66,7 @@ Image: principles.com
 
 
 <div class="reading_img_container">
-    <img src = "/assets/images/principle2.png">
+    <img src = "/assets/images/principle2.jpg">
 </div>
 
 Image: principles.com
