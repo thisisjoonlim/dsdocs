@@ -51,8 +51,6 @@ body {
 
 //blockquote styling
 .quote_style {
-  background: #f9f9f9;
-  border-left: 10px solid #ccc;
   margin: 1.5em 10px;
   padding: 0.5em 10px;
   quotes: "\201C""\201D""\2018""\2019";
@@ -63,8 +61,14 @@ body {
   font-size: 4em;
   line-height: 0.1em;
   margin-right: 0.25em;
-  vertical-align: -0.4em;
+  display: block;
 }
 .quote_style p {
-  display: inline;
+  @include fs-6;
+  display: inline-block;
+  font-weight: 400;
+  font-style: italic;
+  font-family: 'Times New Roman', Times, serif;
+  color: #a9a9a9;
+  text-align: center;
 }

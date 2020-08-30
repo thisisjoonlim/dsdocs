@@ -26,7 +26,7 @@ Ray Dalio
 
 ---
 
-> "Principles are the fundamental truths that determine how you behave and reflect your inner character and values."
+Principles are the fundamental truths that determine how you behave and reflect your inner character and values.
 {: .py-5 .quote_style }
 
 ---
@@ -93,8 +93,8 @@ Image: principles.com
 
 ---
 
-"Bad times, coupled with good reflections, provide some of the best lessons."
-{: .py-5 }
+Bad times, coupled with good reflections, provide some of the best lessons.
+{: .py-5 .quote_style }
 
 ---
 
@@ -112,8 +112,8 @@ Image: principles.com
 
 ---
 
-“To be principled means to consistently operate with principles that can be clearly explained.”
-{: .py-5 }
+To be principled means to consistently operate with principles that can be clearly explained.
+{: .py-5 .quote_style }
 
 ---
 
