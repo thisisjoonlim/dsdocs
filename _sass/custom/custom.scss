@@ -52,30 +52,31 @@ body {
 //blockquote styling
 .quote_style {
   @include fs-6;
-  margin: 1.5em 10px;
-  padding: 0.5em 10px;
   quotes: "\201C""\201D""\2018""\2019";
   font-family: 'Times New Roman', Times, serif;
   font-weight: 400;
   font-style: italic;
   color: #a9a9a9;
   text-align: center;
+  display: block
 }
 
 .quote_style:before {
   color: #ccc;
   content: open-quote;
   font-size: 4em;
-  line-height: 0.1em;
+  line-height: 0.2em;
   margin-right: 0.25em;
   display: block;
+  text-align: left;
 }
 
 .quote_style:after {
   color: #ccc;
   content: close-quote;
   font-size: 4em;
-  line-height: 0.1em;
+  line-height: 1.2em;
   margin-right: 0.25em;
   display: block;
+  text-align: right;
 }
