@@ -3,7 +3,7 @@ layout: default
 title: Principles 
 parent: Books
 grand_parent: Readings
-youtubeId: putYourIDHere
+youtubeId: B9XGUpQZY38
 nav_order: 2017
 ---
 
@@ -26,8 +26,7 @@ Ray Dalio
 
 ---
 
-"Principles are the fundamental truths that 
-determine how you behave and reflect your inner character and values."
+> "Principles are the fundamental truths that determine how you behave and reflect your inner character and values."
 {: .py-5 }
 
 ---
