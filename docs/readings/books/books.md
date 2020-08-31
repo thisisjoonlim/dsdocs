@@ -11,44 +11,14 @@ has_children: true
 
 ---
 
-## 2016 - Platform Revolution
-{: .d-inline-block }
-Product
-{: .label .label-green }
-
-Author: Geoffrey G Parker, Sangeet Paul Choudary, Marshall Van Alstyne
-
-**#1 - ...**
-
----
-
-## 2014 - The Hard Things About Hard Things
-{: .d-inline-block }
-Leadership
-{: .label .label-yellow }
-
-Author: Ben Horowitz
-
-
-
----
-
-## 2008 - The Ten Commandments for Business Failure
-{: .d-inline-block }
-Management
-{: .label .label-yellow }
-
-Author: Donald R. Keough
-
-**#1 - ...**
-
----
-
-## 2008 - Made to Stick
-{: .d-inline-block }
-Product
-{: .label .label-green }
-
-Author: Liz Wiseman and Greg McKeown
-
-**#1 - ...**
+#### Upcoming Book Summaries
+- 2019 - Deep Medicine - Product
+- 2019 - Super Pumped - Entrepreneurship 
+- 2016 - Platform Revolution - Product
+- 2016 - Shoe Dog - Entrepreneurship
+- 2014 - The Hard Things About Hard Things - Leadership
+- 2013 - the Everything Store - Entrepreneurship
+- 2013 - Contagious - Product
+- 2008 - The Ten Commandments for Business Failure - Management
+- 2008 - Made to Stick - Product
+- 1997 - Pour your heart into it - Entrepreneurship

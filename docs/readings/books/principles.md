@@ -24,6 +24,7 @@ Ray Dalio
 1. TOC
 {:toc}
 
+---
 
 Principles are the fundamental truths that determine how you behave and reflect your inner character and values.
 {: .quote_style }

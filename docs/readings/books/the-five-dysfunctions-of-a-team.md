@@ -26,13 +26,12 @@ Patrick Lencioni
 
 ---
 <div class="reading_img_container">
-    <img src = "/assets/images/thefivedisfunctionsofateam.gif" style="height:70%;width:70%;">
+    <img src = "/assets/images/thefivedisfunctionsofateam.gif">
 </div>
 
 Image: tablegroup.com
 {: .text-delta .text-center .pb-5 }
 
----
 
 ##### Lead by example, and set the tone for the whole team:
 - Being the first one to be vulnerable.

@@ -25,6 +25,7 @@ Kim Scott
 {:toc}
 
 ---
+
 <div class="reading_img_container">
     <img src = "/assets/images/radicalcandor.png" style="height:80%;width:80%;">
 </div>
@@ -32,7 +33,6 @@ Kim Scott
 Image: radicalcandor.com
 {: .text-delta .text-center .pb-5 }
 
----
 
 ##### Care personally, challenge compassionately.
 - Help you provide guidance/feedback in a way coming across as personal and helpful.
@@ -58,7 +58,6 @@ Image: radicalcandor.com
 - Three areas to consider in your career conversation: their career journey, career aspiration, and short-term career plan. Through the discussion, find their motivations, and share how you can help them stay on the right track.
 {: .pb-5 }
 
----
 
 <div class="reading_img_container">
     <img src = "/assets/images/radicalcandor2.png" style="height:80%;width:80%;">
@@ -67,7 +66,6 @@ Image: radicalcandor.com
 Image: radicalcandor.com
 {: .text-delta .text-center .pb-5 }
 
----
 
 ##### Avoid telling people what to do, practice collaborative leadership.
 - Treat your team as an opportunity to collaborate with talented individuals, and give them a sense of autonomy and agency so that they can be centered and bring their best selves to work.
