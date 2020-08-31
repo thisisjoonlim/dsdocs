@@ -7,45 +7,52 @@ last_modified_date: 2020-08-31T17:54:08+0000
 ---
 
 # Our Favorite Blogs
-{: .fs-9 }
+{: .no_toc }
 
+Statistics, Machine Learning, and Data Visualization
 
 ---
 
-## INDUSTRY BLOGS
+#### Summary 
+{: .no_toc }
 
-### Google AI 
-https://ai.googleblog.com/
+1. TOC
+{:toc}
+
+---
+
+#### Industry Blogs
+{: .no_toc }
+
+### [Google AI](https://ai.googleblog.com/)
 
 
 
-### Deepmind Blog
+### Deepmind
 https://deepmind.com/blog
 
 
 
-### AWS ML Blog
-https://aws.amazon.com/blogs/machine-learning/
-
-
-
-### Facebook AI Blog
+### Facebook AI
 https://ai.facebook.com/blog/?page=1
 
 
 ---
 
-## ACADEMIC BLOGS
+#### Academic Blogs
+{: .no_toc }
 
 ### Deeplearning.ai
 https://www.deeplearning.ai/
 
 Blog & The Batch
 
+### Open AI
+https://openai.com/blog
+
+
 ### MIT AI
 https://news.mit.edu/topic/artificial-intelligence2
-
-
 
 ### Simply Statistics
 https://simplystatistics.org/
@@ -59,7 +66,8 @@ Andrew Gelman, Professor of Statistics and director of the Applied Statistics Ce
 
 ---
 
-## NEWS
+#### News
+{: .no_toc }
 
 ### Five Thirty Eight
 https://fivethirtyeight.com
