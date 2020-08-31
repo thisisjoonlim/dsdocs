@@ -3,6 +3,7 @@ layout: default
 title: Hooked
 parent: Books
 grand_parent: Readings
+youtubeId: WglaIuyeWKU
 nav_order: 2014
 ---
 
@@ -24,6 +25,14 @@ Nir Eyal and Ryan Hoove
 {:toc}
 
 ---
+
+<div class="reading_img_container">
+    <img src = "/assets/images/hooked.jpeg">
+</div>
+
+Image: nirandfar.com
+{: .text-delta .text-center .pb-5 }
+
 
 ##### Habit-forming: the more you use, the broader benefits you receive.
 - A habit-forming product is to solve the user's pain by creating an association to identify the company's product or service as the source of relief.
@@ -88,3 +97,8 @@ Nir Eyal and Ryan Hoove
 
 - `Investment` What small investment do users make in your product with an expectation of enjoying a better experience in the future? Does it load the next trigger and store value to improve the product with use?
 {: .pb-5 }
+
+---
+
+{% include youtube.html id=page.youtubeId %}
+{: .py-5 }

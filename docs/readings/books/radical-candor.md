@@ -3,6 +3,7 @@ layout: default
 title: Radical Candor 
 parent: Books
 grand_parent: Readings
+youtubeId: yC4gXs_6wvs
 nav_order: 2017
 ---
 
@@ -25,11 +26,11 @@ Kim Scott
 
 ---
 <div class="reading_img_container">
-    <img src = "/assets/images/radicalcandor.png" style="height:70%;width:70%;">
+    <img src = "/assets/images/radicalcandor.png" style="height:80%;width:80%;">
 </div>
 
 Image: radicalcandor.com
-{: .text-delta .text-center }
+{: .text-delta .text-center .pb-5 }
 
 ---
 
@@ -56,6 +57,17 @@ Image: radicalcandor.com
 
 - Three areas to consider in your career conversation: their career journey, career aspiration, and short-term career plan. Through the discussion, find their motivations, and share how you can help them stay on the right track.
 {: .pb-5 }
+
+---
+
+<div class="reading_img_container">
+    <img src = "/assets/images/radicalcandor2.png" style="height:80%;width:80%;">
+</div>
+
+Image: radicalcandor.com
+{: .text-delta .text-center .pb-5 }
+
+---
 
 ##### Avoid telling people what to do, practice collaborative leadership.
 - Treat your team as an opportunity to collaborate with talented individuals, and give them a sense of autonomy and agency so that they can be centered and bring their best selves to work.
@@ -111,3 +123,8 @@ incompetent boss, whose niceness prevents honesty.
 
 - This is the boss who thinks, “I’m just going to tell him the report was fine because I don’t have the time to explain why it was so bad. Next time, I’ll just have someone else do it.”
 {: .pb-5 }
+
+---
+
+{% include youtube.html id=page.youtubeId %}
+{: .py-5 }

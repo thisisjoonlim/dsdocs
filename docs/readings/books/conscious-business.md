@@ -3,6 +3,7 @@ layout: default
 title: Conscious Business 
 parent: Books
 grand_parent: Readings
+youtubeId: MZYMyy76v5Y
 nav_order: 2002
 ---
 
@@ -36,6 +37,11 @@ Fred Kofman
 
 - Enact the universal virtues of wisdom, courage, low, justice, temperance, and transcendence and seek success beyond success.
 {: .pb-5 }
+
+
+You can’t judge a man until you’ve walked a mile in his moccasins.
+{: .quote_style }
+
 
 ##### Stay open, and avoid to stake your self-esteem on being right.
 - Assume that your rationality is limited, other perspectives are complementary, and errors are learning opportunities.
@@ -136,3 +142,8 @@ Fred Kofman
 
 - `Vision` From bossing to leading: stop managing people through external rewards and punishments and inspire them with a dignifying purpose.
 {: .pb-5 }
+
+---
+
+{% include youtube.html id=page.youtubeId %}
+{: .py-5 }

@@ -3,6 +3,7 @@ layout: default
 title: The Five Dysfunctions Of A Team 
 parent: Books
 grand_parent: Readings
+youtubeId: GCxct4CR-To
 nav_order: 2002
 ---
 
@@ -29,7 +30,7 @@ Patrick Lencioni
 </div>
 
 Image: tablegroup.com
-{: .text-delta .text-center }
+{: .text-delta .text-center .pb-5 }
 
 ---
 
@@ -44,6 +45,11 @@ Image: tablegroup.com
 
 - Being clear on the team's results.
 {: .pb-5 }
+
+
+If you get all the people in an organization rowing in the same direction, you could dominate any industry, in any market, against any competition, at any time.
+{: .quote_style }
+
 
 ##### Absence of trust makes defensive behaviors and reluctant to ask for help.
 - Happens when team members are unable to be *vulnerable* and open to one another without filters. They are unwilling to admit their mistakes, fears, or needs for help.
@@ -102,3 +108,8 @@ Image: tablegroup.com
 
 - Do team members sacrifice their own interests for the good of the team?
 {: .pb-5 }
+
+---
+
+{% include youtube.html id=page.youtubeId %}
+{: .py-5 }

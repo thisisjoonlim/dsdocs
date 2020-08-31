@@ -43,7 +43,7 @@ Principles are the fundamental truths that determine how you behave and reflect 
 </div>
 
 Image: principles.com
-{: .text-delta .text-center }
+{: .text-delta .text-center .pb-5 }
 
 
 ##### Life Principles: “Dreams + Reality + Determination = A Successful Life.”
@@ -68,7 +68,7 @@ Image: principles.com
 </div>
 
 Image: principles.com
-{: .text-delta .text-center }
+{: .text-delta .text-center .pb-5 }
 
 
 ##### Work Principles: "Idea Meritocracy = Radical Truth + Radical Transparency + Believability-Weighted Decision Making."
