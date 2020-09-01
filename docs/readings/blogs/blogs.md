@@ -9,7 +9,9 @@ last_modified_date: 2020-08-31T17:54:08+0000
 # Blogs
 {: .no_toc }
 
-We found that Blog is one of the most efficient tools, if not the most, to gain knowledge of technical and non-technical topics and stay up to date with the latest changes in the industry. This section provides our thoughts and summaries on quality blog posts for people pursuing a data science career. We cover various topics, including technical matters such as artificial intelligence, statistics, and experimentation, and non-technical matters, such as leadership, management, and productivity.
+## Introduction
+
+Blog is one of the most efficient tools, if not the most, to gain knowledge of technical and non-technical topics and stay up to date with the latest changes in the industry. This section provides our thoughts and summaries on quality blog posts for people pursuing a data science career. We cover various topics, including technical matters such as artificial intelligence, statistics, and experimentation, and non-technical matters, such as leadership, management, and productivity.
 
 ---
 
@@ -43,7 +45,7 @@ Facebook AI researchers post exciting applications of ML across various fields s
 
 ### [Open AI](https://openai.com/blog)
 
-If you are interested in ML models and their performances for various AI problems, we recommend reviewing the OpenAI blog first. 
+Open AI's blog is the best bet if you are interested in ML models and their performances for various AI problems. 
 
 ### [Berkeley AI Research](https://bair.berkeley.edu/blog/)
 
@@ -55,7 +57,7 @@ Andrew Gelman and fellow Statistics professors at Columbia University provide te
 
 ### [Simply Statistics](https://simplystatistics.org/)
 
-Jeff Leek, Roger Peng, and Rafa Irizarry (Biology Professors) share their thoughts on AI, Stats, Social Phenomenons, Data Analysis Tools, Career, etc. 
+Jeff Leek, Roger Peng, and Rafa Irizarry share their thoughts on AI, Stats, Social Phenomenons, Data Analysis Tools, Career, etc. 
 
 Just note that their post cycle has become irregular and decreasing since 2019. 
 
@@ -75,5 +77,6 @@ In Flowing Data, Nathan Yau offers extensive examples and tutorials for effectiv
 ---
 
 #### More
+{: .no_toc }
 
 - [Lex Fridman](https://lexfridman.com/) - an AI Researcher at MIT, sharing his views periodically in Youtube.
