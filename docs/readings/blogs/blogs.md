@@ -70,7 +70,7 @@ Nate Silver and his FiveThirtyEight team provide inspiring data stories.
 
 ### [Flowing Data](https://flowingdata.com)
 
-Flowing Data offers an extensive library of tutorials and resources for effective data visualization. Through engaging infographics, Dr. Nathan Yau demonstrates innovative approaches to making data readable and accessible.
+In Flowing Data, Nathan Yau offers extensive examples and tutorials for effective data visualization.
 
 ---
 
