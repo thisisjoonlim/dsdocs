@@ -13,7 +13,6 @@ has_children: true
 
 #### Upcoming Book Summaries
 - 2019 - Deep Medicine - Product
-- 2019 - Super Pumped - Entrepreneurship 
 - 2016 - Platform Revolution - Product
 - 2016 - Shoe Dog - Entrepreneurship
 - 2014 - The Hard Things About Hard Things - Leadership
