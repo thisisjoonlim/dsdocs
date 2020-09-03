@@ -27,7 +27,7 @@ Nir Eyal and Ryan Hoove
 ---
 
 <div class="reading_img_container">
-    <img src = "/assets/images/hooked.jpeg">
+    <img src = "/assets/images/hookcanvas.png">
 </div>
 
 Image: nirandfar.com
