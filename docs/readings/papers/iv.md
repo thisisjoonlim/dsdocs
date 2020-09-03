@@ -5,7 +5,7 @@ parent: Papers
 grand_parent: Readings
 ---
 
-# Applications of IV 
+# Applications of Instrumental Variables (IV)
 {: .no_toc .d-inline .print-title-size }
 
 ---
@@ -29,10 +29,10 @@ This is a difficult question to answer as there exists an "ability bias" in esti
 ### Framework
 {: .no_toc }
 
-$$ \\Y = \gamma_{0} + \gamma_{1} X_{1} + \rho S + \epsilon \tag $$
+$$ Y = \gamma_{0} + \gamma_{1} X_{1} + \rho S + \epsilon \tag $$
 { .text-center }
 
-$$ \\S = \delta_{0} + \delta_{1} X_{1} + \delta_{2} X_{2} + \eta \tag $$
+$$ S = \delta_{0} + \delta_{1} X_{1} + \delta_{2} X_{2} + \eta \tag $$
 { .text-center }
 
 - $$ Y $$ : ln(Weekly Wage)
