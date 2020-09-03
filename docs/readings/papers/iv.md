@@ -30,10 +30,8 @@ This is a difficult question to answer as there exists an "ability bias" in esti
 {: .no_toc }
 
 $$ Y = \gamma_{0} + \gamma_{1} X_{1} + \rho S + \epsilon \tag $$
-{ .text-center }
 
 $$ S = \delta_{0} + \delta_{1} X_{1} + \delta_{2} X_{2} + \eta \tag $$
-{ .text-center }
 
 - $$ Y $$ : ln(Weekly Wage)
 - $$ S $$ : Years of Schooling
@@ -60,11 +58,10 @@ $$ S = \delta_{0} + \delta_{1} X_{1} + \delta_{2} X_{2} + \eta \tag $$
 
 Angrist et al. introduced the concept of *Local Average Treatment Effect (LATE)* for Instrumental Variables (IV) [2], where the treatment effect for the subset of the sample that takes the treatment if and only if they were assigned to the treatment. In an ideal experiment, all subjects assigned to treatment are treated, while those that are assigned to control will remain untreated. In reality, however, the compliance rate is often imperfect, which prevents researchers from identifying the ATE. In such cases, estimating the LATE becomes the more feasible option.
 
-*[1] Angrist, J. D., & Keueger, A. B. (1991). [Does compulsory school attendance affect schooling and earnings?](https://www.nber.org/papers/w3572.pdf). The Quarterly Journal of Economics, 106(4), 979-1014.*
-{: .fs-2 }
-
-*[2] Angrist, J. D., & Imbens, G. W. (1995). [Two-stage least squares estimation of average causal effects in models with variable treatment intensity](https://scholar.harvard.edu/imbens/files/wo-stage_least_squares_estimation_of_average_causal_effects_in_models_with_variable_treatment_intensity.pdf). Journal of the American statistical Association, 90(430), 431-442.*
-{: .fs-2 }
+1. *Angrist, J. D., & Keueger, A. B. (1991). [Does compulsory school attendance affect schooling and earnings?](https://www.nber.org/papers/w3572.pdf). The Quarterly Journal of Economics, 106(4), 979-1014.*
+{: .fs-1 }
+2. *Angrist, J. D., & Imbens, G. W. (1995). [Two-stage least squares estimation of average causal effects in models with variable treatment intensity](https://scholar.harvard.edu/imbens/files/wo-stage_least_squares_estimation_of_average_causal_effects_in_models_with_variable_treatment_intensity.pdf). Journal of the American statistical Association, 90(430), 431-442.*
+{: .fs-1 }
 
 ---
 
