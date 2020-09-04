@@ -30,6 +30,7 @@ Leadership
 Jeff Weiner, 2014
 
 Oftentimes what I thought was a take-it-or-leave-it remark would create a massively disruptive fire drill. Up until that moment, I had no idea my opinion was being weighed so heavily.
+{: .quote_style }
 
 Jeff Weiner, Executive Chairman of LinkedIn, shared his unique practice on giving informal feedback to his team. The system was designed to remove ambiguities in interpreting the comments and proven effective to communicate more effectively across all organization levels, especially with newer employees, yet to be calibrated to his feedback style or frequency. His secret recipe is to categorize the feedback in one of three categories below: 
 
