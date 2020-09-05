@@ -19,13 +19,13 @@ Table of Contents
 - Introduction
     - Motivation - what this book is and is not for, who should read it, etc. 
     - Where I came from - education, early career
-
+{: .py-2}
 
 - Finding The Right Place
     - Data Culture 
     - Right team members 
     - Interview effectively
-
+{: .py-2}
 
 - Accelerate Your Data Science Career
     - Know your passion - Role of DS (AI/ Product/ Research + Eng + PM)
@@ -33,13 +33,15 @@ Table of Contents
     - Build your competitive Strength
     - Always be learning - side projects
     - Build your own network of mentors
-
+{: .py-2}
 
 - Leading Data Scientists
     - Pitfalls of strong data scientists
     - Hire the right talents
     - You are still a data scientist
-    - 
+
+
+
 
 
 
