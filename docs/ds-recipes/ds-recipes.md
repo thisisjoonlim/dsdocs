@@ -14,16 +14,18 @@ Things I Wish I Knew Earlier When I Started In Data Science
 
 
 Table of Contents
-{: .text-delta }
+{: .text-delta .pt-5 }
 
 - Introduction
     - Motivation - what this book is and is not for, who should read it, etc. 
     - Where I came from - education, early career
 
+
 - Finding The Right Place
     - Data Culture 
     - Right team members 
     - Interview effectively
+
 
 - Accelerate Your Data Science Career
     - Know your passion - Role of DS (AI/ Product/ Research + Eng + PM)
@@ -31,6 +33,7 @@ Table of Contents
     - Build your competitive Strength
     - Always be learning - side projects
     - Build your own network of mentors
+
 
 - Leading Data Scientists
     - Pitfalls of strong data scientists
