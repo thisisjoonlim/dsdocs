@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Feedback
+title: Productivity
 parent: Blogs
 grand_parent: Readings
 ---
@@ -34,5 +34,6 @@ Schedule 1-2 hours of buffers every day.
 
 Jeff scheduled between 90 minutes and two hours of buffers every day (broken down into 30- to 90-minute blocks). He used that buffer time to think big, catch up on the latest industry news, get out from under that pile of unread emails, or just take a walk. The point is to ake sure you make that time for yourself -- everyday and in a systematic way -- and don't leave unscheduled moments to chance. Jeff claimed that the buffer is the single most important productivity tool for him.
 
-1. *Weiner, J. (2015). [The Importance of Scheduling Nothing](https://www.linkedin.com/pulse/20130403215758-22330283-the-importance-of-scheduling-nothing/). LinkedIn.*
+1. *Weiner, J. (2013). [The Importance of Scheduling Nothing](https://www.linkedin.com/pulse/20130403215758-22330283-the-importance-of-scheduling-nothing/). LinkedIn.*
 {: .fs-1 .pt-3 }
+

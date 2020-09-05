@@ -8,9 +8,6 @@ grand_parent: Readings
 # Applications of Instrumental Variables (IV)
 {: .no_toc .d-inline .print-title-size }
 
-Experiments
-{: .label .label-blue }
-
 ---
 
 #### Summary 
@@ -22,6 +19,9 @@ Experiments
 ---
 
 ## Estimating the Return to Education
+
+Experiments
+{: .label .label-blue }
 
 *How would you measure how much an additional schooling would impact one's income?*
 {: .pb-3 }

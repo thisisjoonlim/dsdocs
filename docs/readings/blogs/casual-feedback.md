@@ -28,6 +28,7 @@ Leadership
 {: .label .label-yellow }
 
 Jeff Weiner, 2014
+{: .pb-3 }
 
 Oftentimes what I thought was a take-it-or-leave-it remark would create a massively disruptive fire drill. Up until that moment, I had no idea my opinion was being weighed so heavily.
 {: .quote_style }
