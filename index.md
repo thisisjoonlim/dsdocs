@@ -14,7 +14,9 @@ last_modified_date: 2020-08-27T17:54:08+0000
 Jus.....men.
 {: .fs-5 .fw-300 .text-center }
 
----
+<div class="reading_img_container">
+    <img src = "/assets/images/ds-docs-intro.png">
+</div>
 
 ## DS Recipes
 {: .text-center .pb-3 }

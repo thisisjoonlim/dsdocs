@@ -7,7 +7,7 @@ permalink: /docs/ds-recipes
 ---
 
 # DS Recipes
-{: .no_toc .d-inline .print-title-size }
+{: .no_toc .d-inline }
 
 Things I Wish I Knew Earlier When I Started In Data Science
 {: .fs-5 .fw-300 }
