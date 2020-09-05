@@ -49,6 +49,11 @@ body {
   color: rgba(41, 41, 41, 1);
 }
 
+// site title formatting
+.site-title {
+  font-family: Chalkduster, fantasy;
+}
+
 //blockquote styling
 .quote_style {
   @include fs-6;
