@@ -12,7 +12,7 @@ last_modified_date: 2020-08-27T17:54:08+0000
 {: .fs-9 .fw-700 .text-center }
 
 Jus.....men.
-{: .fs-4 .fw-300 .text-center }
+{: .fs-5 .fw-300 .text-center }
 
 ---
 
@@ -30,5 +30,5 @@ Jus.....men.
 
 Jus.....men.
 
-[Learn More](/docs/Readings){: .btn .fs-5 .mb-4 .mb-md-0 .text-center }
+[Read More](/docs/readings){: .btn .fs-5 .mb-4 .mb-md-0 .text-center }
 
