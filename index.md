@@ -5,14 +5,14 @@ nav_order: 1
 description: "Thoughts on Data, Science, and Engineering"
 comments: false
 permalink: /
-last_modified_date: 2020-08-27T17:54:08+0000
+last_modified_date: 2020-09-7T17:54:08+0000
 ---
 
 # DS DOCS
 {: .fs-9 .fw-700 .text-center }
 
 Thoughts on Data, Science, and Engineering
-{: .fs-6 .fw-300 .text-center }
+{: .fs-6 .fw-200 .text-center }
 
 <div class="reading_img_container">
     <img src = "/assets/images/ds-docs-intro.png">

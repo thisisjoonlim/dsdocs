@@ -9,24 +9,6 @@
     })
 </script>
 
-<!-- Animated Collapsible (Slide Down) -->
-<script>
-    var coll = document.getElementsByClassName("s-collapsible");
-    var i;
-    
-    for (i = 0; i < coll.length; i++) {
-      coll[i].addEventListener("click", function() {
-        this.classList.toggle("focus");
-        var content = this.nextElementSibling;
-        if (content.style.display === "block") {
-        content.style.display = "none";
-        } else {
-        content.style.display = "block";
-        }
-      });
-    }
-</script>
-
 <!-- Google Adsense -->
 <script data-ad-client="{{site.google_ad_client}}" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
