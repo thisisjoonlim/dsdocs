@@ -2,11 +2,11 @@
     <h1 align="center">DS Docs</h1>
     <p align="center">Thoughts on Data, Science, and Engineering</p>
     <br>
-    <img src = "/assets/images/ds-docs-intro.png">
+    <div style="text-align: center;"><img src = "/assets/images/ds-docs-intro.png"></div>
     <br>
 </p>
 
-## Design Principles:
+## Design Principles
 
 1. Easy to read
 2. Easy to remember, search
