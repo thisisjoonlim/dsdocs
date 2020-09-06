@@ -2,7 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
-description: "DS DOCS is a place that you can ."
+description: "Thoughts on Data, Science, and Engineering"
 comments: false
 permalink: /
 last_modified_date: 2020-08-27T17:54:08+0000
@@ -11,14 +11,17 @@ last_modified_date: 2020-08-27T17:54:08+0000
 # DS DOCS
 {: .fs-9 .fw-700 .text-center }
 
-Jus.....men.
-{: .fs-5 .fw-300 .text-center }
+Thoughts on Data, Science, and Engineering
+{: .fs-6 .fw-300 .text-center }
 
 <div class="reading_img_container">
     <img src = "/assets/images/ds-docs-intro.png">
 </div>
 
 ## DS Recipes
+{: .text-center }
+
+Turbocharging Your Data Science Career
 {: .text-center .pb-3 }
 
 Jus.....men.
