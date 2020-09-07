@@ -1,9 +1,7 @@
 <p align="center">
     <h1 align="center">DS Docs</h1>
     <p align="center">Thoughts on Data, Science, and Engineering</p>
-    <br>
-    <div style="text-align: center;"><img src = "/assets/images/ds-docs-intro.png"></div>
-    <br>
+    <br><br>
 </p>
 
 ## Design Principles
