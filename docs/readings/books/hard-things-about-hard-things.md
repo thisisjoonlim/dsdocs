@@ -26,7 +26,7 @@ Ben Horowitz
 
 ---
 
-##### Take care of their employees first, then their products, and only then their profits. 
+##### Take care of employees, products, and profits - in that order. 
 - If you devote real time, energy and money to developing the right people for your enterprise, then treat them responsibly and respectfully, they’re more likely to create great products that will deliver robust profits.
 
 - Effective employee training will improve productivity, performance management, product quality, and employee retention.
