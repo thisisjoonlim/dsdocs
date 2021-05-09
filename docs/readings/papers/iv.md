@@ -23,7 +23,7 @@ grand_parent: Readings
 Experiments
 {: .label .label-blue }
 
-*How would you measure how much an additional schooling would impact one's income?*
+*Q: How would you measure how much an additional schooling would impact one's income?*
 {: .pb-3 }
 
 This is difficult to answer as there exists an "ability bias" in estimates of the economic return to education that more able idividuals in the labor market get more schooling, perhaps because of better access to captical markets. Angrist et al. addressed the potential bias in "years of schooling" using "quarter of birth" as an intrumental variable for education and claimed that an additional year of schooling would bring around 8-9% increase in weekly earnings in their publication [1][2]. Individuals' season of birth is related to their educational attainment because of the combined effects of school start age policy and compulsory school attendance laws. In most school districts, individuals born in the beginning of the year start school at a slightly older age, and therefore are eligible to drop out of school after completing fewer years of schooling than individuals born near the end of the year.
